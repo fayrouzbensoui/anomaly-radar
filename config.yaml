@@ -1,0 +1,46 @@
+# ── Market Anomaly Scanner configuration ──────────────────────────────
+universe:
+  include_etfs: true
+  min_price: 1.0              # skip sub-$1 tickers (junk / delisting risk)
+  min_median_dollar_volume: 500000   # 60-day median $ volume liquidity floor
+  exclude_patterns: ["W", "R", "U"]  # warrants, rights, units (5th-char codes)
+
+data:
+  lookback_days: 260          # ~1 trading year of daily bars (for 52w stats)
+  min_history_days: 45        # minimum bars required to score a ticker
+  chunk_size: 250             # tickers per yfinance batch request
+  cache_dir: ".cache"
+
+signals:
+  # Weights of each family in the composite score (auto-normalized).
+  weights:
+    volume: 0.30
+    momentum: 0.30
+    relative_strength: 0.20
+    ml_outlier: 0.20
+  volume:
+    baseline_days: 60
+    zscore_clip: 8.0
+  momentum:
+    high_proximity_pct: 0.02  # within 2% of 52-week high = breakout zone
+    gap_floor_pct: 0.02       # overnight gap counted from 2%
+  relative_strength:
+    benchmark: "SPY"
+    horizons: [1, 5, 20]
+    horizon_weights: [0.5, 0.3, 0.2]
+  ml_outlier:
+    contamination: 0.02       # expected anomaly share for IsolationForest
+    n_estimators: 300
+    random_state: 42
+
+options_flow:
+  enabled: true
+  shortlist_size: 40          # scan chains only for top-N pre-options candidates
+  max_expiries: 3             # nearest expiries to inspect
+  min_call_vol_oi_ratio: 2.0  # call volume > 2x open interest = unusual
+  score_bonus_cap: 0.15       # max composite bonus from options flow
+
+report:
+  top_n: 40
+  output_dir: "output"
+  history_dir: "output/history"
