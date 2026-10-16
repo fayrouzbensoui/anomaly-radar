@@ -1,1010 +1,1010 @@
 {
- "generated_at": "2026-10-15T00:44:21+00:00",
- "asof": "2026-10-15",
- "universe_size": 12030,
- "scanned": 2931,
- "candidates": 801,
+ "generated_at": "2026-10-16T00:37:26+00:00",
+ "asof": "2026-10-16",
+ "universe_size": 12037,
+ "scanned": 1497,
+ "candidates": 1158,
  "flagged_options_flow": 0,
  "disclaimer": "Statistical anomaly screen, not investment advice. Anomalies mark unusual behavior, not guaranteed appreciation. Do your own research.",
  "results": [
   {
-   "ticker": "DBE",
-   "name": "Invesco DB Energy Fund",
+   "ticker": "RETL",
+   "name": "Direxion Daily Retail Bull 3X ETF",
    "is_etf": true,
-   "close": 39.05,
-   "final_score": 0.7622,
-   "composite": 0.7622,
+   "close": 8.57,
+   "final_score": 0.7572,
+   "composite": 0.7572,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.908,
-    "momentum": 0.377,
-    "relative_strength": 0.915,
-    "ml_outlier": 0.968
+    "volume": 0.719,
+    "momentum": 0.474,
+    "relative_strength": 0.998,
+    "ml_outlier": 0.999
    },
    "stats": {
-    "ret_1d": 0.0003,
-    "ret_5d": 0.0574,
-    "ret_20d": 0.032,
-    "gap_pct": -0.0023,
+    "ret_1d": 0.1087,
+    "ret_5d": 0.1396,
+    "ret_20d": 0.1779,
+    "gap_pct": 0.0349,
+    "dist_52w_high": -0.2176,
+    "vol_z": 3.0289,
+    "dollar_vol_ratio": 3.8252,
+    "dollar_volume": 8027518.7141
+   }
+  },
+  {
+   "ticker": "RSPH",
+   "name": "Invesco S&P 500 Equal Weight Health Care ETF",
+   "is_etf": true,
+   "close": 39.12,
+   "final_score": 0.7553,
+   "composite": 0.7553,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.796,
+    "momentum": 0.467,
+    "relative_strength": 0.947,
+    "ml_outlier": 0.935
+   },
+   "stats": {
+    "ret_1d": 0.0222,
+    "ret_5d": 0.0584,
+    "ret_20d": 0.0597,
+    "gap_pct": 0.011,
     "dist_52w_high": 0.0,
-    "vol_z": 3.6547,
-    "dollar_vol_ratio": 13.3242,
-    "dollar_volume": 15471609.6977
+    "vol_z": 2.7879,
+    "dollar_vol_ratio": 10.708,
+    "dollar_volume": 37277446.9822
    }
   },
   {
-   "ticker": "FAST",
-   "name": "Fastenal Company - Common Stock",
+   "ticker": "TBCH",
+   "name": "Turtle Beach Corporation - Common Stock",
    "is_etf": false,
-   "close": 52.0,
-   "final_score": 0.7544,
-   "composite": 0.7544,
+   "close": 16.17,
+   "final_score": 0.732,
+   "composite": 0.732,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.858,
-    "momentum": 0.384,
-    "relative_strength": 0.943,
-    "ml_outlier": 0.966
+    "volume": 0.738,
+    "momentum": 0.369,
+    "relative_strength": 0.999,
+    "ml_outlier": 1.0
    },
    "stats": {
-    "ret_1d": 0.0111,
-    "ret_5d": 0.0435,
-    "ret_20d": 0.0606,
-    "gap_pct": -0.0762,
-    "dist_52w_high": -0.0073,
-    "vol_z": 5.213,
-    "dollar_vol_ratio": 3.9804,
-    "dollar_volume": 1320560800.0
+    "ret_1d": 0.1229,
+    "ret_5d": 0.2702,
+    "ret_20d": 0.2864,
+    "gap_pct": -0.0076,
+    "dist_52w_high": -0.0538,
+    "vol_z": 2.7465,
+    "dollar_vol_ratio": 5.8146,
+    "dollar_volume": 20969256.0989
    }
   },
   {
-   "ticker": "SPYV",
-   "name": "State Street SPDR Portfolio S&P 500 Value ETF",
-   "is_etf": true,
-   "close": 62.68,
-   "final_score": 0.7239,
-   "composite": 0.7239,
+   "ticker": "SIG",
+   "name": "Signet Jewelers Limited Common Shares",
+   "is_etf": false,
+   "close": 118.16,
+   "final_score": 0.7258,
+   "composite": 0.7258,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.978,
+    "volume": 0.515,
+    "momentum": 0.578,
+    "relative_strength": 0.996,
+    "ml_outlier": 0.993
+   },
+   "stats": {
+    "ret_1d": 0.0945,
+    "ret_5d": 0.1159,
+    "ret_20d": 0.1647,
+    "gap_pct": 0.0113,
+    "dist_52w_high": 0.0,
+    "vol_z": 2.0523,
+    "dollar_vol_ratio": 3.0954,
+    "dollar_volume": 206839086.4105
+   }
+  },
+  {
+   "ticker": "WM",
+   "name": "Waste Management, Inc. Common Stock",
+   "is_etf": false,
+   "close": 224.19,
+   "final_score": 0.7155,
+   "composite": 0.7155,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.745,
+    "momentum": 0.372,
+    "relative_strength": 0.96,
+    "ml_outlier": 0.943
+   },
+   "stats": {
+    "ret_1d": 0.0391,
+    "ret_5d": 0.0671,
+    "ret_20d": 0.0509,
+    "gap_pct": 0.0229,
+    "dist_52w_high": -0.0789,
+    "vol_z": 4.0665,
+    "dollar_vol_ratio": 2.4787,
+    "dollar_volume": 1170182136.7432
+   }
+  },
+  {
+   "ticker": "WCN",
+   "name": "Waste Connections, Inc. Common Shares",
+   "is_etf": false,
+   "close": 165.51,
+   "final_score": 0.7077,
+   "composite": 0.7077,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.796,
     "momentum": 0.267,
-    "relative_strength": 0.795,
-    "ml_outlier": 0.958
+    "relative_strength": 0.976,
+    "ml_outlier": 0.969
    },
    "stats": {
-    "ret_1d": 0.0002,
-    "ret_5d": 0.0142,
-    "ret_20d": 0.0121,
-    "gap_pct": -0.0027,
-    "dist_52w_high": -0.0144,
-    "vol_z": 6.2624,
-    "dollar_vol_ratio": 11.6631,
-    "dollar_volume": 1121890521.4622
+    "ret_1d": 0.0554,
+    "ret_5d": 0.0699,
+    "ret_20d": 0.0662,
+    "gap_pct": 0.0178,
+    "dist_52w_high": -0.067,
+    "vol_z": 4.009,
+    "dollar_vol_ratio": 3.4696,
+    "dollar_volume": 728707403.8147
    }
   },
   {
-   "ticker": "TV",
-   "name": "Grupo Televisa S.A.B. Common Stock",
+   "ticker": "SHO",
+   "name": "Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares",
    "is_etf": false,
-   "close": 2.37,
-   "final_score": 0.7147,
-   "composite": 0.7147,
+   "close": 11.87,
+   "final_score": 0.7012,
+   "composite": 0.7012,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.764,
-    "momentum": 0.299,
-    "relative_strength": 0.99,
-    "ml_outlier": 0.988
+    "volume": 0.657,
+    "momentum": 0.455,
+    "relative_strength": 0.953,
+    "ml_outlier": 0.885
    },
    "stats": {
-    "ret_1d": 0.0724,
-    "ret_5d": 0.0628,
-    "ret_20d": 0.0822,
-    "gap_pct": 0.0045,
-    "dist_52w_high": -0.311,
-    "vol_z": 2.8662,
-    "dollar_vol_ratio": 6.1865,
-    "dollar_volume": 12608873.3912
-   }
-  },
-  {
-   "ticker": "PCRX",
-   "name": "Pacira BioSciences, Inc. - Common Stock",
-   "is_etf": false,
-   "close": 36.4,
-   "final_score": 0.7142,
-   "composite": 0.7142,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.571,
-    "momentum": 0.478,
-    "relative_strength": 1.0,
-    "ml_outlier": 0.997
-   },
-   "stats": {
-    "ret_1d": 0.0025,
-    "ret_5d": 0.4444,
-    "ret_20d": 0.4613,
-    "gap_pct": 0.0006,
+    "ret_1d": 0.0313,
+    "ret_5d": 0.0458,
+    "ret_20d": 0.0848,
+    "gap_pct": 0.0078,
     "dist_52w_high": 0.0,
-    "vol_z": 1.8459,
-    "dollar_vol_ratio": 5.7659,
-    "dollar_volume": 84877523.558
-   }
-  },
-  {
-   "ticker": "TECS",
-   "name": "Direxion Technology Bear 3X ETF",
-   "is_etf": true,
-   "close": 56.2,
-   "final_score": 0.6807,
-   "composite": 0.6807,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.454,
-    "momentum": 0.488,
-    "relative_strength": 0.992,
-    "ml_outlier": 0.998
-   },
-   "stats": {
-    "ret_1d": 0.0896,
-    "ret_5d": 0.1789,
-    "ret_20d": -0.1093,
-    "gap_pct": 0.0353,
-    "dist_52w_high": -0.7579,
-    "vol_z": 2.1569,
-    "dollar_vol_ratio": 1.7491,
-    "dollar_volume": 39396200.5348
-   }
-  },
-  {
-   "ticker": "NCLO",
-   "name": "Nuveen AA-BBB CLO ETF",
-   "is_etf": true,
-   "close": 24.99,
-   "final_score": 0.667,
-   "composite": 0.667,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.862,
-    "momentum": 0.264,
-    "relative_strength": 0.69,
-    "ml_outlier": 0.957
-   },
-   "stats": {
-    "ret_1d": 0.0008,
-    "ret_5d": -0.0012,
-    "ret_20d": 0.002,
-    "gap_pct": 0.0028,
-    "dist_52w_high": -0.002,
-    "vol_z": 3.1015,
-    "dollar_vol_ratio": 34.9011,
-    "dollar_volume": 23937071.1208
-   }
-  },
-  {
-   "ticker": "VLGEA",
-   "name": "Village Super Market, Inc. - Class A Common Stock",
-   "is_etf": false,
-   "close": 44.85,
-   "final_score": 0.6656,
-   "composite": 0.6656,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.842,
-    "momentum": 0.17,
-    "relative_strength": 0.906,
-    "ml_outlier": 0.904
-   },
-   "stats": {
-    "ret_1d": 0.0207,
-    "ret_5d": 0.0235,
-    "ret_20d": 0.0215,
-    "gap_pct": -0.002,
-    "dist_52w_high": -0.0383,
-    "vol_z": 3.7132,
-    "dollar_vol_ratio": 5.3208,
-    "dollar_volume": 9938759.6619
+    "vol_z": 2.9073,
+    "dollar_vol_ratio": 2.9204,
+    "dollar_volume": 65362154.3698
    }
   },
   {
    "ticker": "SSG",
    "name": "ProShares UltraShort Semiconductors",
    "is_etf": true,
-   "close": 11.76,
-   "final_score": 0.6532,
-   "composite": 0.6532,
+   "close": 12.06,
+   "final_score": 0.6744,
+   "composite": 0.6744,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.38,
-    "momentum": 0.471,
-    "relative_strength": 0.994,
-    "ml_outlier": 0.997
+    "volume": 0.714,
+    "momentum": 0.22,
+    "relative_strength": 0.977,
+    "ml_outlier": 0.994
    },
    "stats": {
-    "ret_1d": 0.074,
-    "ret_5d": 0.2062,
-    "ret_20d": -0.0785,
-    "gap_pct": 0.0356,
-    "dist_52w_high": -0.669,
-    "vol_z": 1.6184,
-    "dollar_vol_ratio": 2.2059,
-    "dollar_volume": 15567888.303
+    "ret_1d": 0.0255,
+    "ret_5d": 0.1585,
+    "ret_20d": 0.009,
+    "gap_pct": 0.0629,
+    "dist_52w_high": -0.6606,
+    "vol_z": 2.8226,
+    "dollar_vol_ratio": 4.4875,
+    "dollar_volume": 31669561.1019
    }
   },
   {
-   "ticker": "HALO",
-   "name": "Halozyme Therapeutics, Inc. - Common Stock",
-   "is_etf": false,
-   "close": 116.82,
-   "final_score": 0.6451,
-   "composite": 0.6451,
+   "ticker": "IBIG",
+   "name": "iShares iBonds Oct 2030 Term TIPS ETF",
+   "is_etf": true,
+   "close": 25.21,
+   "final_score": 0.666,
+   "composite": 0.666,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.352,
-    "momentum": 0.505,
-    "relative_strength": 0.989,
-    "ml_outlier": 0.951
+    "volume": 0.994,
+    "momentum": 0.29,
+    "relative_strength": 0.466,
+    "ml_outlier": 0.937
    },
    "stats": {
-    "ret_1d": 0.0657,
-    "ret_5d": 0.0544,
-    "ret_20d": 0.0773,
-    "gap_pct": 0.0026,
+    "ret_1d": 0.0016,
+    "ret_5d": 0.0032,
+    "ret_20d": 0.0007,
+    "gap_pct": 0.0036,
+    "dist_52w_high": -0.0191,
+    "vol_z": 6.2408,
+    "dollar_vol_ratio": 31.8795,
+    "dollar_volume": 32565419.6774
+   }
+  },
+  {
+   "ticker": "THO",
+   "name": "Thor Industries, Inc. Common Stock",
+   "is_etf": false,
+   "close": 69.98,
+   "final_score": 0.6522,
+   "composite": 0.6522,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.459,
+    "momentum": 0.441,
+    "relative_strength": 0.969,
+    "ml_outlier": 0.942
+   },
+   "stats": {
+    "ret_1d": 0.0689,
+    "ret_5d": 0.0585,
+    "ret_20d": 0.0166,
+    "gap_pct": 0.0223,
+    "dist_52w_high": -0.4105,
+    "vol_z": 2.1015,
+    "dollar_vol_ratio": 1.9954,
+    "dollar_volume": 95004852.5574
+   }
+  },
+  {
+   "ticker": "TMO",
+   "name": "Thermo Fisher Scientific Inc Common Stock",
+   "is_etf": false,
+   "close": 696.49,
+   "final_score": 0.6487,
+   "composite": 0.6487,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.465,
+    "momentum": 0.464,
+    "relative_strength": 0.959,
+    "ml_outlier": 0.89
+   },
+   "stats": {
+    "ret_1d": 0.0346,
+    "ret_5d": 0.0683,
+    "ret_20d": 0.058,
+    "gap_pct": 0.0192,
     "dist_52w_high": 0.0,
-    "vol_z": 1.4297,
-    "dollar_vol_ratio": 2.3061,
-    "dollar_volume": 440294578.8498
+    "vol_z": 2.0331,
+    "dollar_vol_ratio": 2.3037,
+    "dollar_volume": 2760050533.3008
+   }
+  },
+  {
+   "ticker": "VEON",
+   "name": "VEON Ltd. - American Depositary Shares",
+   "is_etf": false,
+   "close": 82.81,
+   "final_score": 0.6454,
+   "composite": 0.6454,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.479,
+    "momentum": 0.388,
+    "relative_strength": 0.986,
+    "ml_outlier": 0.941
+   },
+   "stats": {
+    "ret_1d": 0.0292,
+    "ret_5d": 0.0745,
+    "ret_20d": 0.2035,
+    "gap_pct": -0.0099,
+    "dist_52w_high": 0.0,
+    "vol_z": 1.755,
+    "dollar_vol_ratio": 3.5187,
+    "dollar_volume": 25845000.238
+   }
+  },
+  {
+   "ticker": "MMU",
+   "name": "Western Asset Managed Municipals Fund, Inc. Common Stock",
+   "is_etf": false,
+   "close": 9.36,
+   "final_score": 0.6387,
+   "composite": 0.6387,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.714,
+    "momentum": 0.213,
+    "relative_strength": 0.91,
+    "ml_outlier": 0.893
+   },
+   "stats": {
+    "ret_1d": 0.0388,
+    "ret_5d": 0.0458,
+    "ret_20d": -0.0121,
+    "gap_pct": 0.0078,
+    "dist_52w_high": -0.0952,
+    "vol_z": 2.6188,
+    "dollar_vol_ratio": 5.6478,
+    "dollar_volume": 8341753.374
+   }
+  },
+  {
+   "ticker": "PSO",
+   "name": "Pearson, Plc Common Stock",
+   "is_etf": false,
+   "close": 17.86,
+   "final_score": 0.6343,
+   "composite": 0.6343,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.359,
+    "momentum": 0.484,
+    "relative_strength": 0.975,
+    "ml_outlier": 0.934
+   },
+   "stats": {
+    "ret_1d": 0.0318,
+    "ret_5d": 0.074,
+    "ret_20d": 0.1163,
+    "gap_pct": 0.022,
+    "dist_52w_high": 0.0,
+    "vol_z": 1.5628,
+    "dollar_vol_ratio": 2.0343,
+    "dollar_volume": 20342540.6952
+   }
+  },
+  {
+   "ticker": "XLP",
+   "name": "State Street Consumer Staples Select Sector SPDR ETF",
+   "is_etf": true,
+   "close": 86.68,
+   "final_score": 0.6217,
+   "composite": 0.6217,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.673,
+    "momentum": 0.285,
+    "relative_strength": 0.886,
+    "ml_outlier": 0.787
+   },
+   "stats": {
+    "ret_1d": 0.0072,
+    "ret_5d": 0.0391,
+    "ret_20d": 0.045,
+    "gap_pct": 0.0189,
+    "dist_52w_high": -0.0184,
+    "vol_z": 3.2448,
+    "dollar_vol_ratio": 2.4302,
+    "dollar_volume": 2077806287.3154
+   }
+  },
+  {
+   "ticker": "SMG",
+   "name": "Scotts Miracle-Gro Company (The) Common Stock",
+   "is_etf": false,
+   "close": 54.25,
+   "final_score": 0.62,
+   "composite": 0.62,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.317,
+    "momentum": 0.446,
+    "relative_strength": 0.981,
+    "ml_outlier": 0.974
+   },
+   "stats": {
+    "ret_1d": 0.0911,
+    "ret_5d": 0.0757,
+    "ret_20d": 0.0059,
+    "gap_pct": 0.0382,
+    "dist_52w_high": -0.2535,
+    "vol_z": 1.462,
+    "dollar_vol_ratio": 1.6736,
+    "dollar_volume": 85579375.0
+   }
+  },
+  {
+   "ticker": "MYI",
+   "name": "Blackrock MuniYield Quality Fund III, Inc Common Stock",
+   "is_etf": false,
+   "close": 9.78,
+   "final_score": 0.6188,
+   "composite": 0.6188,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.722,
+    "momentum": 0.214,
+    "relative_strength": 0.828,
+    "ml_outlier": 0.861
+   },
+   "stats": {
+    "ret_1d": 0.0273,
+    "ret_5d": 0.0327,
+    "ret_20d": -0.0383,
+    "gap_pct": 0.0053,
+    "dist_52w_high": -0.109,
+    "vol_z": 2.5917,
+    "dollar_vol_ratio": 6.3076,
+    "dollar_volume": 24324815.3358
+   }
+  },
+  {
+   "ticker": "WPP",
+   "name": "WPP plc American Depositary Shares",
+   "is_etf": false,
+   "close": 27.16,
+   "final_score": 0.6153,
+   "composite": 0.6153,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.225,
+    "momentum": 0.534,
+    "relative_strength": 0.984,
+    "ml_outlier": 0.954
+   },
+   "stats": {
+    "ret_1d": 0.0622,
+    "ret_5d": 0.0875,
+    "ret_20d": 0.0765,
+    "gap_pct": 0.016,
+    "dist_52w_high": 0.0,
+    "vol_z": 0.7976,
+    "dollar_vol_ratio": 1.7907,
+    "dollar_volume": 13843451.9222
+   }
+  },
+  {
+   "ticker": "UNH",
+   "name": "UnitedHealth Group Incorporated Common Stock (DE)",
+   "is_etf": false,
+   "close": 406.67,
+   "final_score": 0.6129,
+   "composite": 0.6129,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.569,
+    "momentum": 0.21,
+    "relative_strength": 0.973,
+    "ml_outlier": 0.923
+   },
+   "stats": {
+    "ret_1d": 0.0279,
+    "ret_5d": 0.0963,
+    "ret_20d": 0.0838,
+    "gap_pct": 0.0142,
+    "dist_52w_high": -0.0623,
+    "vol_z": 2.5747,
+    "dollar_vol_ratio": 2.344,
+    "dollar_volume": 4131035330.4016
+   }
+  },
+  {
+   "ticker": "TECS",
+   "name": "Direxion Technology Bear 3X ETF",
+   "is_etf": true,
+   "close": 57.21,
+   "final_score": 0.6069,
+   "composite": 0.6069,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.522,
+    "momentum": 0.208,
+    "relative_strength": 0.951,
+    "ml_outlier": 0.988
+   },
+   "stats": {
+    "ret_1d": 0.018,
+    "ret_5d": 0.1403,
+    "ret_20d": -0.0267,
+    "gap_pct": 0.0621,
+    "dist_52w_high": -0.7535,
+    "vol_z": 2.4275,
+    "dollar_vol_ratio": 2.0079,
+    "dollar_volume": 45224504.2763
+   }
+  },
+  {
+   "ticker": "WSM",
+   "name": "Williams-Sonoma, Inc. Common Stock (DE)",
+   "is_etf": false,
+   "close": 252.03,
+   "final_score": 0.6047,
+   "composite": 0.6047,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.335,
+    "momentum": 0.432,
+    "relative_strength": 0.979,
+    "ml_outlier": 0.894
+   },
+   "stats": {
+    "ret_1d": 0.0394,
+    "ret_5d": 0.0545,
+    "ret_20d": 0.1512,
+    "gap_pct": 0.0142,
+    "dist_52w_high": 0.0,
+    "vol_z": 1.5193,
+    "dollar_vol_ratio": 1.7909,
+    "dollar_volume": 421873014.9567
+   }
+  },
+  {
+   "ticker": "DSM",
+   "name": "BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock",
+   "is_etf": false,
+   "close": 5.24,
+   "final_score": 0.6044,
+   "composite": 0.6044,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.737,
+    "momentum": 0.187,
+    "relative_strength": 0.801,
+    "ml_outlier": 0.835
+   },
+   "stats": {
+    "ret_1d": 0.0254,
+    "ret_5d": 0.0294,
+    "ret_20d": -0.04,
+    "gap_pct": 0.0078,
+    "dist_52w_high": -0.1339,
+    "vol_z": 2.8345,
+    "dollar_vol_ratio": 5.1584,
+    "dollar_volume": 4224252.0155
    }
   },
   {
    "ticker": "VFC",
    "name": "V.F. Corporation Common Stock",
    "is_etf": false,
-   "close": 16.48,
-   "final_score": 0.6412,
-   "composite": 0.6412,
+   "close": 17.0,
+   "final_score": 0.5995,
+   "composite": 0.5995,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.596,
-    "momentum": 0.218,
-    "relative_strength": 0.998,
-    "ml_outlier": 0.987
+    "volume": 0.434,
+    "momentum": 0.239,
+    "relative_strength": 0.997,
+    "ml_outlier": 0.99
    },
    "stats": {
-    "ret_1d": 0.0255,
-    "ret_5d": 0.146,
-    "ret_20d": 0.2946,
-    "gap_pct": -0.0025,
-    "dist_52w_high": -0.2258,
-    "vol_z": 2.5049,
-    "dollar_vol_ratio": 3.0097,
-    "dollar_volume": 312243255.3268
+    "ret_1d": 0.0316,
+    "ret_5d": 0.17,
+    "ret_20d": 0.3148,
+    "gap_pct": 0.017,
+    "dist_52w_high": -0.2014,
+    "vol_z": 1.8001,
+    "dollar_vol_ratio": 2.53,
+    "dollar_volume": 262483400.0
    }
   },
   {
-   "ticker": "MDT",
-   "name": "Medtronic plc. Ordinary Shares",
-   "is_etf": false,
-   "close": 94.23,
-   "final_score": 0.6371,
-   "composite": 0.6371,
+   "ticker": "IBIH",
+   "name": "iShares iBonds Oct 2031 Term TIPS ETF",
+   "is_etf": true,
+   "close": 25.0845,
+   "final_score": 0.5982,
+   "composite": 0.5982,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.644,
-    "momentum": 0.201,
-    "relative_strength": 0.967,
-    "ml_outlier": 0.95
+    "volume": 0.997,
+    "momentum": 0.053,
+    "relative_strength": 0.465,
+    "ml_outlier": 0.951
    },
    "stats": {
-    "ret_1d": 0.0131,
-    "ret_5d": 0.102,
-    "ret_20d": 0.0259,
-    "gap_pct": 0.0,
-    "dist_52w_high": -0.0759,
-    "vol_z": 2.1425,
-    "dollar_vol_ratio": 6.5936,
-    "dollar_volume": 4698185468.3723
+    "ret_1d": 0.0026,
+    "ret_5d": 0.0032,
+    "ret_20d": -0.0019,
+    "gap_pct": 0.0046,
+    "dist_52w_high": -0.0266,
+    "vol_z": 6.8573,
+    "dollar_vol_ratio": 38.1803,
+    "dollar_volume": 34338346.7642
    }
   },
   {
    "ticker": "SOXS",
    "name": "Direxion Daily Semiconductor Bear 3X ETF",
    "is_etf": true,
-   "close": 42.52,
-   "final_score": 0.6342,
-   "composite": 0.6342,
+   "close": 43.64,
+   "final_score": 0.5967,
+   "composite": 0.5967,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.285,
-    "momentum": 0.497,
-    "relative_strength": 0.999,
-    "ml_outlier": 0.999
-   },
-   "stats": {
-    "ret_1d": 0.1363,
-    "ret_5d": 0.3873,
-    "ret_20d": -0.1409,
-    "gap_pct": 0.0697,
-    "dist_52w_high": -0.955,
-    "vol_z": 1.3383,
-    "dollar_vol_ratio": 1.505,
-    "dollar_volume": 3773046256.62
-   }
-  },
-  {
-   "ticker": "EDZ",
-   "name": "Direxion Emerging Markets Bear 3X ETF",
-   "is_etf": true,
-   "close": 16.11,
-   "final_score": 0.6191,
-   "composite": 0.6191,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.299,
-    "momentum": 0.439,
-    "relative_strength": 0.995,
-    "ml_outlier": 0.993
-   },
-   "stats": {
-    "ret_1d": 0.0634,
-    "ret_5d": 0.1426,
-    "ret_20d": 0.0543,
-    "gap_pct": 0.0429,
-    "dist_52w_high": -0.6114,
-    "vol_z": 1.0804,
-    "dollar_vol_ratio": 2.3581,
-    "dollar_volume": 6450444.2444
-   }
-  },
-  {
-   "ticker": "ZSL",
-   "name": "ProShares UltraShort Silver",
-   "is_etf": true,
-   "close": 32.23,
-   "final_score": 0.6169,
-   "composite": 0.6169,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.244,
-    "momentum": 0.48,
-    "relative_strength": 0.999,
-    "ml_outlier": 1.0
-   },
-   "stats": {
-    "ret_1d": 0.1242,
-    "ret_5d": 0.1377,
-    "ret_20d": 0.2669,
-    "gap_pct": 0.082,
-    "dist_52w_high": -0.7898,
-    "vol_z": 0.856,
-    "dollar_vol_ratio": 1.9632,
-    "dollar_volume": 147065487.9112
-   }
-  },
-  {
-   "ticker": "VHT",
-   "name": "Vanguard Health Care ETF",
-   "is_etf": true,
-   "close": 323.15,
-   "final_score": 0.6133,
-   "composite": 0.6133,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.481,
-    "momentum": 0.42,
-    "relative_strength": 0.918,
-    "ml_outlier": 0.796
-   },
-   "stats": {
-    "ret_1d": 0.0214,
-    "ret_5d": 0.0249,
-    "ret_20d": 0.0301,
-    "gap_pct": 0.0042,
-    "dist_52w_high": -0.0162,
-    "vol_z": 2.2573,
-    "dollar_vol_ratio": 1.8753,
-    "dollar_volume": 119016142.7521
-   }
-  },
-  {
-   "ticker": "RGA",
-   "name": "Reinsurance Group of America, Incorporated Common Stock",
-   "is_etf": false,
-   "close": 261.05,
-   "final_score": 0.6118,
-   "composite": 0.6118,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.575,
-    "momentum": 0.34,
-    "relative_strength": 0.93,
-    "ml_outlier": 0.757
-   },
-   "stats": {
-    "ret_1d": 0.0105,
-    "ret_5d": 0.0378,
-    "ret_20d": 0.0522,
-    "gap_pct": -0.0032,
-    "dist_52w_high": 0.0,
-    "vol_z": 2.5323,
-    "dollar_vol_ratio": 2.5559,
-    "dollar_volume": 201791640.564
-   }
-  },
-  {
-   "ticker": "MFSB",
-   "name": "MFS Active Core Plus Bond ETF",
-   "is_etf": true,
-   "close": 23.95,
-   "final_score": 0.6099,
-   "composite": 0.6099,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.924,
-    "momentum": 0.026,
-    "relative_strength": 0.676,
-    "ml_outlier": 0.948
-   },
-   "stats": {
-    "ret_1d": 0.0008,
-    "ret_5d": 0.005,
-    "ret_20d": -0.0086,
-    "gap_pct": -0.0042,
-    "dist_52w_high": -0.0343,
-    "vol_z": 3.8364,
-    "dollar_vol_ratio": 14.4809,
-    "dollar_volume": 41261205.0144
-   }
-  },
-  {
-   "ticker": "ELV",
-   "name": "Elevance Health, Inc. Common Stock",
-   "is_etf": false,
-   "close": 428.09,
-   "final_score": 0.6095,
-   "composite": 0.6095,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.529,
-    "momentum": 0.334,
-    "relative_strength": 0.934,
-    "ml_outlier": 0.817
-   },
-   "stats": {
-    "ret_1d": 0.0066,
-    "ret_5d": 0.0588,
-    "ret_20d": 0.0376,
-    "gap_pct": 0.0083,
-    "dist_52w_high": 0.0,
-    "vol_z": 2.4378,
-    "dollar_vol_ratio": 2.0997,
-    "dollar_volume": 905795623.2513
-   }
-  },
-  {
-   "ticker": "IXC",
-   "name": "iShares Global Energy ETF",
-   "is_etf": true,
-   "close": 62.09,
-   "final_score": 0.6088,
-   "composite": 0.6088,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.456,
-    "momentum": 0.387,
-    "relative_strength": 0.95,
-    "ml_outlier": 0.83
-   },
-   "stats": {
-    "ret_1d": 0.0058,
-    "ret_5d": 0.0657,
-    "ret_20d": 0.0547,
-    "gap_pct": 0.0053,
-    "dist_52w_high": 0.0,
-    "vol_z": 1.615,
-    "dollar_vol_ratio": 3.5933,
-    "dollar_volume": 78692866.1934
-   }
-  },
-  {
-   "ticker": "UVXY",
-   "name": "ProShares Ultra VIX Short Term Futures ETF",
-   "is_etf": true,
-   "close": 16.63,
-   "final_score": 0.6043,
-   "composite": 0.6043,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.594,
+    "volume": 0.438,
     "momentum": 0.227,
-    "relative_strength": 0.822,
-    "ml_outlier": 0.968
-   },
-   "stats": {
-    "ret_1d": 0.0433,
-    "ret_5d": 0.0272,
-    "ret_20d": -0.1021,
-    "gap_pct": 0.0038,
-    "dist_52w_high": -0.7581,
-    "vol_z": 2.9387,
-    "dollar_vol_ratio": 1.8224,
-    "dollar_volume": 242731467.7505
-   }
-  },
-  {
-   "ticker": "SJT",
-   "name": "San Juan Basin Royalty Trust Common Stock",
-   "is_etf": false,
-   "close": 4.58,
-   "final_score": 0.6037,
-   "composite": 0.6037,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.458,
-    "momentum": 0.224,
-    "relative_strength": 1.0,
-    "ml_outlier": 0.996
-   },
-   "stats": {
-    "ret_1d": 0.0339,
-    "ret_5d": 0.2021,
-    "ret_20d": 0.5066,
-    "gap_pct": 0.0068,
-    "dist_52w_high": -0.2921,
-    "vol_z": 1.4373,
-    "dollar_vol_ratio": 4.4316,
-    "dollar_volume": 3103407.9483
-   }
-  },
-  {
-   "ticker": "ESLT",
-   "name": "Elbit Systems Ltd. - Ordinary Shares",
-   "is_etf": false,
-   "close": 701.38,
-   "final_score": 0.5944,
-   "composite": 0.5944,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.465,
-    "momentum": 0.247,
-    "relative_strength": 0.942,
-    "ml_outlier": 0.963
-   },
-   "stats": {
-    "ret_1d": 0.0505,
-    "ret_5d": 0.0498,
-    "ret_20d": -0.0484,
-    "gap_pct": 0.0557,
-    "dist_52w_high": -0.3058,
-    "vol_z": 2.0837,
-    "dollar_vol_ratio": 2.1367,
-    "dollar_volume": 114815906.7993
-   }
-  },
-  {
-   "ticker": "SQQQ",
-   "name": "ProShares UltraPro Short QQQ",
-   "is_etf": true,
-   "close": 36.0,
-   "final_score": 0.5857,
-   "composite": 0.5857,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.194,
-    "momentum": 0.451,
-    "relative_strength": 0.974,
-    "ml_outlier": 0.987
-   },
-   "stats": {
-    "ret_1d": 0.0591,
-    "ret_5d": 0.1225,
-    "ret_20d": -0.1009,
-    "gap_pct": 0.0229,
-    "dist_52w_high": -0.5852,
-    "vol_z": 0.8314,
-    "dollar_vol_ratio": 1.2239,
-    "dollar_volume": 2043270000.0
-   }
-  },
-  {
-   "ticker": "DIG",
-   "name": "ProShares Ultra Energy",
-   "is_etf": true,
-   "close": 77.76,
-   "final_score": 0.5806,
-   "composite": 0.5806,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.242,
-    "momentum": 0.416,
-    "relative_strength": 0.99,
-    "ml_outlier": 0.925
-   },
-   "stats": {
-    "ret_1d": 0.0105,
-    "ret_5d": 0.1329,
-    "ret_20d": 0.118,
-    "gap_pct": 0.0104,
-    "dist_52w_high": 0.0,
-    "vol_z": 0.7279,
-    "dollar_vol_ratio": 2.1845,
-    "dollar_volume": 4688928.1288
-   }
-  },
-  {
-   "ticker": "PRGO",
-   "name": "Perrigo Company plc Ordinary Shares",
-   "is_etf": false,
-   "close": 15.95,
-   "final_score": 0.5783,
-   "composite": 0.5783,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.406,
-    "momentum": 0.22,
-    "relative_strength": 0.995,
-    "ml_outlier": 0.958
-   },
-   "stats": {
-    "ret_1d": 0.0377,
-    "ret_5d": 0.0962,
-    "ret_20d": 0.178,
-    "gap_pct": -0.0052,
-    "dist_52w_high": -0.2414,
-    "vol_z": 1.6971,
-    "dollar_vol_ratio": 2.3909,
-    "dollar_volume": 73942604.1158
-   }
-  },
-  {
-   "ticker": "PSQ",
-   "name": "ProShares Short QQQ",
-   "is_etf": true,
-   "close": 25.23,
-   "final_score": 0.5764,
-   "composite": 0.5764,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.508,
-    "momentum": 0.239,
-    "relative_strength": 0.869,
-    "ml_outlier": 0.893
-   },
-   "stats": {
-    "ret_1d": 0.0198,
-    "ret_5d": 0.0404,
-    "ret_20d": -0.0314,
-    "gap_pct": 0.0081,
-    "dist_52w_high": -0.2278,
-    "vol_z": 2.186,
-    "dollar_vol_ratio": 2.5065,
-    "dollar_volume": 691294418.4574
-   }
-  },
-  {
-   "ticker": "TAK",
-   "name": "Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock)",
-   "is_etf": false,
-   "close": 19.01,
-   "final_score": 0.5759,
-   "composite": 0.5759,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.332,
-    "momentum": 0.425,
-    "relative_strength": 0.932,
-    "ml_outlier": 0.813
-   },
-   "stats": {
-    "ret_1d": 0.0265,
-    "ret_5d": 0.0348,
-    "ret_20d": 0.0198,
-    "gap_pct": 0.0059,
-    "dist_52w_high": -0.0021,
-    "vol_z": 1.5,
-    "dollar_vol_ratio": 1.7939,
-    "dollar_volume": 88898365.0703
-   }
-  },
-  {
-   "ticker": "TDTT",
-   "name": "Northern Trust iBoxx 3-Year Target Duration TIPS ETF",
-   "is_etf": true,
-   "close": 23.36,
-   "final_score": 0.5744,
-   "composite": 0.5744,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.64,
-    "momentum": 0.283,
-    "relative_strength": 0.723,
-    "ml_outlier": 0.764
-   },
-   "stats": {
-    "ret_1d": 0.0013,
-    "ret_5d": 0.0017,
-    "ret_20d": 0.0013,
-    "gap_pct": -0.0026,
-    "dist_52w_high": -0.0124,
-    "vol_z": 2.2675,
-    "dollar_vol_ratio": 5.2525,
-    "dollar_volume": 24908324.8108
-   }
-  },
-  {
-   "ticker": "PIPR",
-   "name": "Piper Sandler Companies Common Stock",
-   "is_etf": false,
-   "close": 64.48,
-   "final_score": 0.5729,
-   "composite": 0.5729,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.863,
-    "momentum": 0.13,
-    "relative_strength": 0.433,
-    "ml_outlier": 0.941
-   },
-   "stats": {
-    "ret_1d": 0.0096,
-    "ret_5d": 0.0108,
-    "ret_20d": -0.0964,
-    "gap_pct": -0.0196,
-    "dist_52w_high": -0.3011,
-    "vol_z": 4.228,
-    "dollar_vol_ratio": 4.9523,
-    "dollar_volume": 204478986.6455
-   }
-  },
-  {
-   "ticker": "XLV",
-   "name": "State Street Health Care Select Sector SPDR ETF",
-   "is_etf": true,
-   "close": 173.96,
-   "final_score": 0.572,
-   "composite": 0.572,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.304,
-    "momentum": 0.433,
-    "relative_strength": 0.941,
-    "ml_outlier": 0.813
-   },
-   "stats": {
-    "ret_1d": 0.0253,
-    "ret_5d": 0.0305,
-    "ret_20d": 0.0409,
-    "gap_pct": 0.0075,
-    "dist_52w_high": -0.006,
-    "vol_z": 1.3972,
-    "dollar_vol_ratio": 1.6469,
-    "dollar_volume": 2055668003.3371
-   }
-  },
-  {
-   "ticker": "MTD",
-   "name": "Mettler-Toledo International, Inc. Common Stock",
-   "is_etf": false,
-   "close": 1609.27,
-   "final_score": 0.5659,
-   "composite": 0.5659,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.296,
-    "momentum": 0.368,
-    "relative_strength": 0.98,
-    "ml_outlier": 0.853
-   },
-   "stats": {
-    "ret_1d": 0.007,
-    "ret_5d": 0.0494,
-    "ret_20d": 0.1672,
-    "gap_pct": 0.0022,
-    "dist_52w_high": 0.0,
-    "vol_z": 1.2624,
-    "dollar_vol_ratio": 1.8728,
-    "dollar_volume": 461860495.6055
-   }
-  },
-  {
-   "ticker": "GME",
-   "name": "GameStop Corporation Common Stock",
-   "is_etf": false,
-   "close": 27.15,
-   "final_score": 0.564,
-   "composite": 0.564,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.397,
-    "momentum": 0.171,
-    "relative_strength": 0.992,
-    "ml_outlier": 0.976
-   },
-   "stats": {
-    "ret_1d": -0.0026,
-    "ret_5d": 0.1046,
-    "ret_20d": 0.2352,
-    "gap_pct": 0.018,
-    "dist_52w_high": -0.0029,
-    "vol_z": 1.4675,
-    "dollar_vol_ratio": 2.9559,
-    "dollar_volume": 443842763.7638
-   }
-  },
-  {
-   "ticker": "TZA",
-   "name": "Direxion Small Cap Bear 3X ETF",
-   "is_etf": true,
-   "close": 51.08,
-   "final_score": 0.5621,
-   "composite": 0.5621,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.169,
-    "momentum": 0.39,
     "relative_strength": 0.993,
-    "ml_outlier": 0.98
+    "ml_outlier": 0.995
    },
    "stats": {
-    "ret_1d": 0.0584,
-    "ret_5d": 0.072,
-    "ret_20d": 0.1499,
-    "gap_pct": 0.0367,
-    "dist_52w_high": -0.4436,
-    "vol_z": 0.5034,
-    "dollar_vol_ratio": 1.3975,
-    "dollar_volume": 233951516.3864
+    "ret_1d": 0.0263,
+    "ret_5d": 0.2915,
+    "ret_20d": -0.0179,
+    "gap_pct": 0.1098,
+    "dist_52w_high": -0.9538,
+    "vol_z": 2.0195,
+    "dollar_vol_ratio": 1.9082,
+    "dollar_volume": 4783851645.0928
    }
   },
   {
-   "ticker": "EMA",
-   "name": "Emera Incorporated Common Shares",
+   "ticker": "ROCK",
+   "name": "Gibraltar Industries, Inc. - Common Stock",
    "is_etf": false,
-   "close": 46.96,
-   "final_score": 0.5608,
-   "composite": 0.5608,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.475,
-    "momentum": 0.239,
-    "relative_strength": 0.851,
-    "ml_outlier": 0.882
-   },
-   "stats": {
-    "ret_1d": 0.028,
-    "ret_5d": 0.0251,
-    "ret_20d": -0.0395,
-    "gap_pct": -0.0039,
-    "dist_52w_high": -0.1396,
-    "vol_z": 1.7208,
-    "dollar_vol_ratio": 3.5811,
-    "dollar_volume": 63508702.7618
-   }
-  },
-  {
-   "ticker": "VBCE",
-   "name": "Vanguard Target Maturity 2031 Corporate Bond ETF",
-   "is_etf": true,
-   "close": 72.99,
-   "final_score": 0.559,
-   "composite": 0.559,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.8,
-    "momentum": 0.007,
-    "relative_strength": 0.667,
-    "ml_outlier": 0.917
-   },
-   "stats": {
-    "ret_1d": 0.0004,
-    "ret_5d": 0.0012,
-    "ret_20d": -0.0031,
-    "gap_pct": -0.0021,
-    "dist_52w_high": -0.0232,
-    "vol_z": 2.7992,
-    "dollar_vol_ratio": 11.3431,
-    "dollar_volume": 7001565.5451
-   }
-  },
-  {
-   "ticker": "PFE",
-   "name": "Pfizer, Inc. Common Stock",
-   "is_etf": false,
-   "close": 29.21,
-   "final_score": 0.5581,
-   "composite": 0.5581,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.171,
-    "momentum": 0.475,
-    "relative_strength": 0.963,
-    "ml_outlier": 0.857
-   },
-   "stats": {
-    "ret_1d": 0.0296,
-    "ret_5d": 0.0432,
-    "ret_20d": 0.0637,
-    "gap_pct": 0.0081,
-    "dist_52w_high": 0.0,
-    "vol_z": 0.5836,
-    "dollar_vol_ratio": 1.3074,
-    "dollar_volume": 1148832184.9922
-   }
-  },
-  {
-   "ticker": "BYRN",
-   "name": "Byrna Technologies, Inc. - Common Stock",
-   "is_etf": false,
-   "close": 4.65,
-   "final_score": 0.5564,
-   "composite": 0.5564,
+   "close": 39.25,
+   "final_score": 0.596,
+   "composite": 0.596,
    "options_bonus": 0.0,
    "signals": {
     "volume": 0.509,
-    "momentum": 0.019,
-    "relative_strength": 0.997,
-    "ml_outlier": 0.993
+    "momentum": 0.258,
+    "relative_strength": 0.9,
+    "ml_outlier": 0.93
    },
    "stats": {
-    "ret_1d": 0.022,
-    "ret_5d": 0.1481,
-    "ret_20d": 0.2534,
-    "gap_pct": -0.0132,
-    "dist_52w_high": -0.8317,
-    "vol_z": 1.7238,
-    "dollar_vol_ratio": 4.3967,
-    "dollar_volume": 6836895.1402
+    "ret_1d": 0.0701,
+    "ret_5d": 0.0472,
+    "ret_20d": -0.1065,
+    "gap_pct": 0.009,
+    "dist_52w_high": -0.4737,
+    "vol_z": 2.2156,
+    "dollar_vol_ratio": 2.4295,
+    "dollar_volume": 31180200.0
    }
   },
   {
-   "ticker": "MKTN",
-   "name": "Federated Hermes MDT Market Neutral ETF",
-   "is_etf": true,
-   "close": 28.51,
-   "final_score": 0.5557,
-   "composite": 0.5557,
+   "ticker": "POOL",
+   "name": "Pool Corporation - Common Stock",
+   "is_etf": false,
+   "close": 169.12,
+   "final_score": 0.5925,
+   "composite": 0.5925,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.479,
-    "momentum": 0.341,
-    "relative_strength": 0.843,
-    "ml_outlier": 0.706
+    "volume": 0.387,
+    "momentum": 0.303,
+    "relative_strength": 0.972,
+    "ml_outlier": 0.956
    },
    "stats": {
-    "ret_1d": 0.0053,
-    "ret_5d": 0.0175,
-    "ret_20d": 0.0208,
-    "gap_pct": 0.0007,
+    "ret_1d": 0.0696,
+    "ret_5d": 0.0694,
+    "ret_20d": 0.0088,
+    "gap_pct": 0.0156,
+    "dist_52w_high": -0.44,
+    "vol_z": 1.7768,
+    "dollar_vol_ratio": 1.8565,
+    "dollar_volume": 226536233.4595
+   }
+  },
+  {
+   "ticker": "TMF",
+   "name": "Direxion Daily 20-Yr Treasury Bull 3x Shrs",
+   "is_etf": true,
+   "close": 28.0,
+   "final_score": 0.5905,
+   "composite": 0.5905,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.496,
+    "momentum": 0.23,
+    "relative_strength": 0.916,
+    "ml_outlier": 0.948
+   },
+   "stats": {
+    "ret_1d": 0.0413,
+    "ret_5d": 0.0811,
+    "ret_20d": -0.0647,
+    "gap_pct": 0.0614,
+    "dist_52w_high": -0.3396,
+    "vol_z": 1.9646,
+    "dollar_vol_ratio": 3.0525,
+    "dollar_volume": 459216800.0
+   }
+  },
+  {
+   "ticker": "ZROZ",
+   "name": "PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund",
+   "is_etf": true,
+   "close": 56.66,
+   "final_score": 0.5903,
+   "composite": 0.5903,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.588,
+    "momentum": 0.2,
+    "relative_strength": 0.876,
+    "ml_outlier": 0.892
+   },
+   "stats": {
+    "ret_1d": 0.025,
+    "ret_5d": 0.0532,
+    "ret_20d": -0.0309,
+    "gap_pct": 0.0369,
+    "dist_52w_high": -0.1615,
+    "vol_z": 2.1595,
+    "dollar_vol_ratio": 4.2546,
+    "dollar_volume": 204349955.4497
+   }
+  },
+  {
+   "ticker": "WIT",
+   "name": "Wipro Limited Common Stock",
+   "is_etf": false,
+   "close": 1.87,
+   "final_score": 0.59,
+   "composite": 0.59,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.406,
+    "momentum": 0.259,
+    "relative_strength": 0.987,
+    "ml_outlier": 0.967
+   },
+   "stats": {
+    "ret_1d": 0.0389,
+    "ret_5d": 0.1198,
+    "ret_20d": 0.1131,
+    "gap_pct": 0.0,
+    "dist_52w_high": -0.3819,
+    "vol_z": 1.6294,
+    "dollar_vol_ratio": 2.5997,
+    "dollar_volume": 30975989.079
+   }
+  },
+  {
+   "ticker": "AFB",
+   "name": "AllianceBernstein National Municipal Income Fund Inc",
+   "is_etf": false,
+   "close": 9.76,
+   "final_score": 0.5884,
+   "composite": 0.5884,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.536,
+    "momentum": 0.252,
+    "relative_strength": 0.878,
+    "ml_outlier": 0.882
+   },
+   "stats": {
+    "ret_1d": 0.0383,
+    "ret_5d": 0.0416,
+    "ret_20d": -0.0446,
+    "gap_pct": 0.0074,
+    "dist_52w_high": -0.1351,
+    "vol_z": 1.9795,
+    "dollar_vol_ratio": 3.8144,
+    "dollar_volume": 3107759.7529
+   }
+  },
+  {
+   "ticker": "SMB",
+   "name": "VanEck Short Muni ETF",
+   "is_etf": true,
+   "close": 17.18,
+   "final_score": 0.5875,
+   "composite": 0.5875,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.461,
+    "momentum": 0.428,
+    "relative_strength": 0.764,
+    "ml_outlier": 0.84
+   },
+   "stats": {
+    "ret_1d": 0.01,
+    "ret_5d": 0.0154,
+    "ret_20d": 0.0076,
+    "gap_pct": -0.0024,
+    "dist_52w_high": -0.0009,
+    "vol_z": 1.4972,
+    "dollar_vol_ratio": 4.2275,
+    "dollar_volume": 8488638.1508
+   }
+  },
+  {
+   "ticker": "SNN",
+   "name": "Smith & Nephew SNATS, Inc. Common Stock",
+   "is_etf": false,
+   "close": 29.09,
+   "final_score": 0.5753,
+   "composite": 0.5753,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.203,
+    "momentum": 0.432,
+    "relative_strength": 0.971,
+    "ml_outlier": 0.953
+   },
+   "stats": {
+    "ret_1d": 0.0434,
+    "ret_5d": 0.079,
+    "ret_20d": 0.0596,
+    "gap_pct": 0.0298,
+    "dist_52w_high": -0.1961,
+    "vol_z": 0.7283,
+    "dollar_vol_ratio": 1.5615,
+    "dollar_volume": 56385147.2958
+   }
+  },
+  {
+   "ticker": "SBH",
+   "name": "Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock",
+   "is_etf": false,
+   "close": 17.12,
+   "final_score": 0.5751,
+   "composite": 0.5751,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.149,
+    "momentum": 0.507,
+    "relative_strength": 0.98,
+    "ml_outlier": 0.911
+   },
+   "stats": {
+    "ret_1d": 0.0627,
+    "ret_5d": 0.068,
+    "ret_20d": 0.0829,
+    "gap_pct": 0.0093,
+    "dist_52w_high": -0.0035,
+    "vol_z": 0.3884,
+    "dollar_vol_ratio": 1.2492,
+    "dollar_volume": 24805169.216
+   }
+  },
+  {
+   "ticker": "MQY",
+   "name": "Blackrock MuniYield Quality Fund, Inc. Common Stock",
+   "is_etf": false,
+   "close": 10.2,
+   "final_score": 0.5737,
+   "composite": 0.5737,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.653,
+    "momentum": 0.174,
+    "relative_strength": 0.82,
+    "ml_outlier": 0.808
+   },
+   "stats": {
+    "ret_1d": 0.0241,
+    "ret_5d": 0.0293,
+    "ret_20d": -0.0286,
+    "gap_pct": 0.002,
+    "dist_52w_high": -0.1105,
+    "vol_z": 2.3912,
+    "dollar_vol_ratio": 4.8866,
+    "dollar_volume": 33043021.7821
+   }
+  },
+  {
+   "ticker": "WGO",
+   "name": "Winnebago Industries, Inc. Common Stock",
+   "is_etf": false,
+   "close": 24.66,
+   "final_score": 0.5735,
+   "composite": 0.5735,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.493,
+    "momentum": 0.248,
+    "relative_strength": 0.84,
+    "ml_outlier": 0.916
+   },
+   "stats": {
+    "ret_1d": 0.068,
+    "ret_5d": 0.0004,
+    "ret_20d": -0.0853,
+    "gap_pct": 0.0173,
+    "dist_52w_high": -0.4877,
+    "vol_z": 2.4043,
+    "dollar_vol_ratio": 1.6348,
+    "dollar_volume": 24655067.8474
+   }
+  },
+  {
+   "ticker": "URBN",
+   "name": "Urban Outfitters, Inc. - Common Stock",
+   "is_etf": false,
+   "close": 87.4,
+   "final_score": 0.5665,
+   "composite": 0.5665,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.188,
+    "momentum": 0.442,
+    "relative_strength": 0.981,
+    "ml_outlier": 0.905
+   },
+   "stats": {
+    "ret_1d": 0.0321,
+    "ret_5d": 0.0795,
+    "ret_20d": 0.1524,
+    "gap_pct": 0.0113,
     "dist_52w_high": 0.0,
-    "vol_z": 1.6133,
-    "dollar_vol_ratio": 4.1427,
-    "dollar_volume": 2493912.27
+    "vol_z": 0.6202,
+    "dollar_vol_ratio": 1.5242,
+    "dollar_volume": 111898221.9536
    }
   },
   {
-   "ticker": "MBB",
-   "name": "iShares MBS ETF",
+   "ticker": "XRT",
+   "name": "State Street SPDR S&P Retail ETF",
    "is_etf": true,
-   "close": 90.0,
-   "final_score": 0.5549,
-   "composite": 0.5549,
+   "close": 87.82,
+   "final_score": 0.5664,
+   "composite": 0.5664,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.743,
-    "momentum": 0.042,
-    "relative_strength": 0.709,
-    "ml_outlier": 0.888
+    "volume": 0.425,
+    "momentum": 0.236,
+    "relative_strength": 0.949,
+    "ml_outlier": 0.89
    },
    "stats": {
-    "ret_1d": 0.0003,
-    "ret_5d": 0.0087,
-    "ret_20d": -0.0094,
-    "gap_pct": -0.0059,
-    "dist_52w_high": -0.044,
-    "vol_z": 2.5493,
-    "dollar_vol_ratio": 8.5557,
-    "dollar_volume": 1772541000.0
+    "ret_1d": 0.0368,
+    "ret_5d": 0.0466,
+    "ret_20d": 0.0626,
+    "gap_pct": 0.0151,
+    "dist_52w_high": -0.047,
+    "vol_z": 1.973,
+    "dollar_vol_ratio": 1.862,
+    "dollar_volume": 570671922.0169
+   }
+  },
+  {
+   "ticker": "TEVA",
+   "name": "Teva Pharmaceutical Industries Limited Ordinary Shares",
+   "is_etf": false,
+   "close": 41.11,
+   "final_score": 0.5598,
+   "composite": 0.5598,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.368,
+    "momentum": 0.394,
+    "relative_strength": 0.904,
+    "ml_outlier": 0.753
+   },
+   "stats": {
+    "ret_1d": 0.0096,
+    "ret_5d": 0.0474,
+    "ret_20d": 0.049,
+    "gap_pct": 0.0142,
+    "dist_52w_high": -0.0034,
+    "vol_z": 1.5908,
+    "dollar_vol_ratio": 2.1,
+    "dollar_volume": 386824550.7431
+   }
+  },
+  {
+   "ticker": "PBPH",
+   "name": "Portfolio Building Block World Pharma and Biotech Index ETF",
+   "is_etf": true,
+   "close": 29.23,
+   "final_score": 0.5596,
+   "composite": 0.5596,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.38,
+    "momentum": 0.436,
+    "relative_strength": 0.902,
+    "ml_outlier": 0.673
+   },
+   "stats": {
+    "ret_1d": 0.0191,
+    "ret_5d": 0.0452,
+    "ret_20d": 0.0258,
+    "gap_pct": 0.0195,
+    "dist_52w_high": -0.0191,
+    "vol_z": 1.8557,
+    "dollar_vol_ratio": 1.5041,
+    "dollar_volume": 3665938.8526
    }
   }
  ]
