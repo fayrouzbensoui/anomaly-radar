@@ -1,0 +1,1011 @@
+{
+ "generated_at": "2026-10-22T00:49:46+00:00",
+ "asof": "2026-10-22",
+ "universe_size": 12040,
+ "scanned": 635,
+ "candidates": 421,
+ "flagged_options_flow": 0,
+ "disclaimer": "Statistical anomaly screen, not investment advice. Anomalies mark unusual behavior, not guaranteed appreciation. Do your own research.",
+ "results": [
+  {
+   "ticker": "FNX",
+   "name": "First Trust Mid Cap Core AlphaDEX Fund",
+   "is_etf": true,
+   "close": 138.8544,
+   "final_score": 0.6685,
+   "composite": 0.6685,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.962,
+    "momentum": 0.084,
+    "relative_strength": 0.836,
+    "ml_outlier": 0.937
+   },
+   "stats": {
+    "ret_1d": 0.0018,
+    "ret_5d": 0.0219,
+    "ret_20d": 0.0097,
+    "gap_pct": 0.0036,
+    "dist_52w_high": -0.0587,
+    "vol_z": 5.768,
+    "dollar_vol_ratio": 9.1965,
+    "dollar_volume": 13486511.3705
+   }
+  },
+  {
+   "ticker": "FNY",
+   "name": "First Trust Mid Cap Growth AlphaDEX Fund",
+   "is_etf": true,
+   "close": 98.7293,
+   "final_score": 0.6597,
+   "composite": 0.6597,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.931,
+    "momentum": 0.133,
+    "relative_strength": 0.756,
+    "ml_outlier": 0.946
+   },
+   "stats": {
+    "ret_1d": 0.0075,
+    "ret_5d": 0.0165,
+    "ret_20d": -0.0092,
+    "gap_pct": 0.008,
+    "dist_52w_high": -0.1093,
+    "vol_z": 4.1377,
+    "dollar_vol_ratio": 10.6631,
+    "dollar_volume": 11010884.0738
+   }
+  },
+  {
+   "ticker": "TAXF",
+   "name": "American Century Diversified Municipal Bond ETF",
+   "is_etf": true,
+   "close": 48.085,
+   "final_score": 0.6427,
+   "composite": 0.6427,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.904,
+    "momentum": 0.076,
+    "relative_strength": 0.786,
+    "ml_outlier": 0.957
+   },
+   "stats": {
+    "ret_1d": 0.0045,
+    "ret_5d": 0.0151,
+    "ret_20d": 0.0049,
+    "gap_pct": 0.001,
+    "dist_52w_high": -0.043,
+    "vol_z": 3.5241,
+    "dollar_vol_ratio": 19.1052,
+    "dollar_volume": 55165515.1997
+   }
+  },
+  {
+   "ticker": "FLCV",
+   "name": "Federated Hermes MDT Large Cap Value ETF",
+   "is_etf": true,
+   "close": 37.61,
+   "final_score": 0.6316,
+   "composite": 0.6316,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.643,
+    "momentum": 0.268,
+    "relative_strength": 0.891,
+    "ml_outlier": 0.899
+   },
+   "stats": {
+    "ret_1d": 0.0008,
+    "ret_5d": 0.0163,
+    "ret_20d": 0.0307,
+    "gap_pct": 0.0019,
+    "dist_52w_high": -0.0122,
+    "vol_z": 1.9681,
+    "dollar_vol_ratio": 10.071,
+    "dollar_volume": 5895066.7157
+   }
+  },
+  {
+   "ticker": "JDVL",
+   "name": "John Hancock Disciplined Value Select ETF",
+   "is_etf": true,
+   "close": 32.0,
+   "final_score": 0.6242,
+   "composite": 0.6242,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.831,
+    "momentum": 0.078,
+    "relative_strength": 0.798,
+    "ml_outlier": 0.959
+   },
+   "stats": {
+    "ret_1d": 0.0022,
+    "ret_5d": 0.0136,
+    "ret_20d": 0.0143,
+    "gap_pct": 0.0006,
+    "dist_52w_high": -0.02,
+    "vol_z": 2.8937,
+    "dollar_vol_ratio": 25.0327,
+    "dollar_volume": 40401408.0
+   }
+  },
+  {
+   "ticker": "PMAY",
+   "name": "Innovator U.S. Equity Power Buffer ETF - May",
+   "is_etf": true,
+   "close": 42.63,
+   "final_score": 0.6145,
+   "composite": 0.6145,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.686,
+    "momentum": 0.338,
+    "relative_strength": 0.644,
+    "ml_outlier": 0.893
+   },
+   "stats": {
+    "ret_1d": 0.0036,
+    "ret_5d": 0.0045,
+    "ret_20d": 0.0085,
+    "gap_pct": 0.0008,
+    "dist_52w_high": -0.0002,
+    "vol_z": 2.3207,
+    "dollar_vol_ratio": 7.1503,
+    "dollar_volume": 4810028.2805
+   }
+  },
+  {
+   "ticker": "FXR",
+   "name": "First Trust Industrials AlphaDEX",
+   "is_etf": true,
+   "close": 84.29,
+   "final_score": 0.6028,
+   "composite": 0.6028,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.68,
+    "momentum": 0.128,
+    "relative_strength": 0.923,
+    "ml_outlier": 0.879
+   },
+   "stats": {
+    "ret_1d": 0.0067,
+    "ret_5d": 0.0287,
+    "ret_20d": 0.0131,
+    "gap_pct": 0.0059,
+    "dist_52w_high": -0.0838,
+    "vol_z": 2.5604,
+    "dollar_vol_ratio": 4.7489,
+    "dollar_volume": 7330785.6696
+   }
+  },
+  {
+   "ticker": "NULV",
+   "name": "Nuveen ESG Large-Cap Value ETF",
+   "is_etf": true,
+   "close": 54.51,
+   "final_score": 0.6012,
+   "composite": 0.6012,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.544,
+    "momentum": 0.302,
+    "relative_strength": 0.88,
+    "ml_outlier": 0.857
+   },
+   "stats": {
+    "ret_1d": 0.0057,
+    "ret_5d": 0.0111,
+    "ret_20d": 0.0221,
+    "gap_pct": -0.0002,
+    "dist_52w_high": 0.0,
+    "vol_z": 1.6822,
+    "dollar_vol_ratio": 5.9622,
+    "dollar_volume": 32186082.6289
+   }
+  },
+  {
+   "ticker": "BMEZ",
+   "name": "BlackRock Health Sciences Term Trust Common Shares of Beneficial Interest",
+   "is_etf": false,
+   "close": 16.93,
+   "final_score": 0.5967,
+   "composite": 0.5967,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.386,
+    "momentum": 0.399,
+    "relative_strength": 0.957,
+    "ml_outlier": 0.849
+   },
+   "stats": {
+    "ret_1d": 0.0042,
+    "ret_5d": 0.0451,
+    "ret_20d": 0.0207,
+    "gap_pct": 0.0012,
+    "dist_52w_high": -0.0052,
+    "vol_z": 1.7502,
+    "dollar_vol_ratio": 1.9161,
+    "dollar_volume": 4143634.5047
+   }
+  },
+  {
+   "ticker": "BGX",
+   "name": "Blackstone Long Short Credit Income Fund Common Shares",
+   "is_etf": false,
+   "close": 10.49,
+   "final_score": 0.5718,
+   "composite": 0.5718,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.633,
+    "momentum": 0.155,
+    "relative_strength": 0.745,
+    "ml_outlier": 0.932
+   },
+   "stats": {
+    "ret_1d": 0.0106,
+    "ret_5d": 0.0067,
+    "ret_20d": -0.0029,
+    "gap_pct": 0.0029,
+    "dist_52w_high": -0.0531,
+    "vol_z": 2.5806,
+    "dollar_vol_ratio": 3.4675,
+    "dollar_volume": 2389852.7279
+   }
+  },
+  {
+   "ticker": "ORRF",
+   "name": "Orrstown Financial Services, Inc. - Common Stock",
+   "is_etf": false,
+   "close": 42.89,
+   "final_score": 0.5654,
+   "composite": 0.5654,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.203,
+    "momentum": 0.405,
+    "relative_strength": 0.992,
+    "ml_outlier": 0.923
+   },
+   "stats": {
+    "ret_1d": 0.0188,
+    "ret_5d": 0.0443,
+    "ret_20d": 0.0451,
+    "gap_pct": 0.0088,
+    "dist_52w_high": -0.0136,
+    "vol_z": 0.8121,
+    "dollar_vol_ratio": 1.4149,
+    "dollar_volume": 4952679.7895
+   }
+  },
+  {
+   "ticker": "CLNK",
+   "name": "Common Shares of Beneficial Interest of Bitwise Chainlink ETF",
+   "is_etf": true,
+   "close": 23.085,
+   "final_score": 0.5535,
+   "composite": 0.5535,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.162,
+    "momentum": 0.371,
+    "relative_strength": 0.995,
+    "ml_outlier": 0.973
+   },
+   "stats": {
+    "ret_1d": 0.0503,
+    "ret_5d": 0.0192,
+    "ret_20d": 0.0315,
+    "gap_pct": 0.0234,
+    "dist_52w_high": -0.1618,
+    "vol_z": 0.4767,
+    "dollar_vol_ratio": 1.3272,
+    "dollar_volume": 1274222.6945
+   }
+  },
+  {
+   "ticker": "FOCT",
+   "name": "FT Vest U.S. Equity Buffer ETF - October",
+   "is_etf": true,
+   "close": 55.065,
+   "final_score": 0.5527,
+   "composite": 0.5527,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.411,
+    "momentum": 0.339,
+    "relative_strength": 0.8,
+    "ml_outlier": 0.838
+   },
+   "stats": {
+    "ret_1d": 0.0041,
+    "ret_5d": 0.0076,
+    "ret_20d": 0.0186,
+    "gap_pct": 0.0038,
+    "dist_52w_high": 0.0,
+    "vol_z": 1.2475,
+    "dollar_vol_ratio": 4.0287,
+    "dollar_volume": 3106051.3775
+   }
+  },
+  {
+   "ticker": "PDEC",
+   "name": "Innovator U.S. Equity Power Buffer ETF - December",
+   "is_etf": true,
+   "close": 47.51,
+   "final_score": 0.5526,
+   "composite": 0.5526,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.683,
+    "momentum": 0.287,
+    "relative_strength": 0.512,
+    "ml_outlier": 0.795
+   },
+   "stats": {
+    "ret_1d": 0.0013,
+    "ret_5d": 0.0019,
+    "ret_20d": 0.0083,
+    "gap_pct": 0.0014,
+    "dist_52w_high": -0.0021,
+    "vol_z": 2.4768,
+    "dollar_vol_ratio": 5.4131,
+    "dollar_volume": 3960908.5601
+   }
+  },
+  {
+   "ticker": "DMB",
+   "name": "BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock",
+   "is_etf": false,
+   "close": 9.82,
+   "final_score": 0.5503,
+   "composite": 0.5503,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.421,
+    "momentum": 0.15,
+    "relative_strength": 0.976,
+    "ml_outlier": 0.918
+   },
+   "stats": {
+    "ret_1d": 0.0051,
+    "ret_5d": 0.0625,
+    "ret_20d": 0.0114,
+    "gap_pct": 0.0072,
+    "dist_52w_high": -0.0995,
+    "vol_z": 1.7032,
+    "dollar_vol_ratio": 2.6239,
+    "dollar_volume": 1835475.783
+   }
+  },
+  {
+   "ticker": "PJUL",
+   "name": "Innovator U.S. Equity Power Buffer ETF - July",
+   "is_etf": true,
+   "close": 50.26,
+   "final_score": 0.5423,
+   "composite": 0.5423,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.389,
+    "momentum": 0.362,
+    "relative_strength": 0.751,
+    "ml_outlier": 0.835
+   },
+   "stats": {
+    "ret_1d": 0.0064,
+    "ret_5d": 0.006,
+    "ret_20d": 0.009,
+    "gap_pct": 0.0006,
+    "dist_52w_high": -0.0012,
+    "vol_z": 1.4177,
+    "dollar_vol_ratio": 2.9633,
+    "dollar_volume": 3828756.4121
+   }
+  },
+  {
+   "ticker": "SITC",
+   "name": "SITE Centers Corp. Common Stock",
+   "is_etf": false,
+   "close": 3.71,
+   "final_score": 0.5419,
+   "composite": 0.5419,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.244,
+    "momentum": 0.236,
+    "relative_strength": 0.997,
+    "ml_outlier": 0.992
+   },
+   "stats": {
+    "ret_1d": 0.0192,
+    "ret_5d": 0.2285,
+    "ret_20d": 0.2492,
+    "gap_pct": 0.0,
+    "dist_52w_high": -0.2854,
+    "vol_z": 0.6587,
+    "dollar_vol_ratio": 2.3321,
+    "dollar_volume": 6089560.6726
+   }
+  },
+  {
+   "ticker": "PPLC",
+   "name": "PPL Corporation Corporate Units",
+   "is_etf": false,
+   "close": 46.41,
+   "final_score": 0.5355,
+   "composite": 0.5355,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.579,
+    "momentum": 0.003,
+    "relative_strength": 0.841,
+    "ml_outlier": 0.964
+   },
+   "stats": {
+    "ret_1d": 0.0006,
+    "ret_5d": 0.0004,
+    "ret_20d": 0.045,
+    "gap_pct": 0.007,
+    "dist_52w_high": -0.0839,
+    "vol_z": 1.5272,
+    "dollar_vol_ratio": 18.3733,
+    "dollar_volume": 25767620.8853
+   }
+  },
+  {
+   "ticker": "CSMD",
+   "name": "Congress SMid Growth ETF",
+   "is_etf": true,
+   "close": 34.13,
+   "final_score": 0.5307,
+   "composite": 0.5307,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.515,
+    "momentum": 0.15,
+    "relative_strength": 0.887,
+    "ml_outlier": 0.769
+   },
+   "stats": {
+    "ret_1d": 0.0104,
+    "ret_5d": 0.0179,
+    "ret_20d": 0.0021,
+    "gap_pct": 0.0053,
+    "dist_52w_high": -0.0654,
+    "vol_z": 2.2533,
+    "dollar_vol_ratio": 2.4229,
+    "dollar_volume": 2843131.479
+   }
+  },
+  {
+   "ticker": "ADEA",
+   "name": "Adeia Inc.  - Common Stock",
+   "is_etf": false,
+   "close": 22.56,
+   "final_score": 0.5277,
+   "composite": 0.5277,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.191,
+    "momentum": 0.262,
+    "relative_strength": 0.973,
+    "ml_outlier": 0.986
+   },
+   "stats": {
+    "ret_1d": 0.0592,
+    "ret_5d": 0.044,
+    "ret_20d": -0.0994,
+    "gap_pct": 0.0131,
+    "dist_52w_high": -0.3266,
+    "vol_z": 0.794,
+    "dollar_vol_ratio": 1.2462,
+    "dollar_volume": 30017951.7694
+   }
+  },
+  {
+   "ticker": "RWTS",
+   "name": "Redwood Trust, Inc. 9.75% Senior Notes Due 2031",
+   "is_etf": false,
+   "close": 20.15,
+   "final_score": 0.5271,
+   "composite": 0.5271,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.46,
+    "momentum": 0.178,
+    "relative_strength": 0.735,
+    "ml_outlier": 0.942
+   },
+   "stats": {
+    "ret_1d": 0.007,
+    "ret_5d": 0.0484,
+    "ret_20d": -0.0571,
+    "gap_pct": 0.005,
+    "dist_52w_high": -0.1702,
+    "vol_z": 1.6424,
+    "dollar_vol_ratio": 3.5755,
+    "dollar_volume": 1960554.6629
+   }
+  },
+  {
+   "ticker": "BBMC",
+   "name": "JPMorgan BetaBuilders U.S. Mid Cap Equity ETF",
+   "is_etf": true,
+   "close": 123.223,
+   "final_score": 0.5265,
+   "composite": 0.5265,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.481,
+    "momentum": 0.13,
+    "relative_strength": 0.893,
+    "ml_outlier": 0.824
+   },
+   "stats": {
+    "ret_1d": 0.0053,
+    "ret_5d": 0.0241,
+    "ret_20d": 0.0079,
+    "gap_pct": 0.0052,
+    "dist_52w_high": -0.0494,
+    "vol_z": 1.3467,
+    "dollar_vol_ratio": 5.8072,
+    "dollar_volume": 5174626.6441
+   }
+  },
+  {
+   "ticker": "MKTN",
+   "name": "Federated Hermes MDT Market Neutral ETF",
+   "is_etf": true,
+   "close": 28.58,
+   "final_score": 0.5246,
+   "composite": 0.5246,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.456,
+    "momentum": 0.257,
+    "relative_strength": 0.776,
+    "ml_outlier": 0.776
+   },
+   "stats": {
+    "ret_1d": 0.0011,
+    "ret_5d": 0.0025,
+    "ret_20d": 0.031,
+    "gap_pct": 0.0004,
+    "dist_52w_high": 0.0,
+    "vol_z": 1.5185,
+    "dollar_vol_ratio": 4.003,
+    "dollar_volume": 2679232.0928
+   }
+  },
+  {
+   "ticker": "DHY",
+   "name": "UBS Asset Management High Yield Credit Fund Common Stock",
+   "is_etf": false,
+   "close": 16.45,
+   "final_score": 0.5237,
+   "composite": 0.5237,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.062,
+    "momentum": 0.366,
+    "relative_strength": 1.0,
+    "ml_outlier": 0.976
+   },
+   "stats": {
+    "ret_1d": 0.0092,
+    "ret_5d": 0.0284,
+    "ret_20d": 8.8866,
+    "gap_pct": 0.0,
+    "dist_52w_high": 0.0,
+    "vol_z": -1.3283,
+    "dollar_vol_ratio": 0.9647,
+    "dollar_volume": 1112743.8516
+   }
+  },
+  {
+   "ticker": "GRPM",
+   "name": "Invesco S&P MidCap 400 GARP ETF",
+   "is_etf": true,
+   "close": 143.764,
+   "final_score": 0.5232,
+   "composite": 0.5232,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.185,
+    "momentum": 0.364,
+    "relative_strength": 0.975,
+    "ml_outlier": 0.817
+   },
+   "stats": {
+    "ret_1d": 0.0055,
+    "ret_5d": 0.0385,
+    "ret_20d": 0.0449,
+    "gap_pct": 0.0041,
+    "dist_52w_high": -0.0153,
+    "vol_z": 0.3647,
+    "dollar_vol_ratio": 1.8487,
+    "dollar_volume": 1565446.2784
+   }
+  },
+  {
+   "ticker": "PLBC",
+   "name": "Plumas Bancorp - Common Stock",
+   "is_etf": false,
+   "close": 63.05,
+   "final_score": 0.5201,
+   "composite": 0.5201,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.283,
+    "momentum": 0.344,
+    "relative_strength": 0.943,
+    "ml_outlier": 0.717
+   },
+   "stats": {
+    "ret_1d": 0.0083,
+    "ret_5d": 0.0237,
+    "ret_20d": 0.0339,
+    "gap_pct": 0.0011,
+    "dist_52w_high": -0.0082,
+    "vol_z": 1.2945,
+    "dollar_vol_ratio": 1.5798,
+    "dollar_volume": 4565828.7448
+   }
+  },
+  {
+   "ticker": "NCA",
+   "name": "Nuveen California Municipal Value Fund",
+   "is_etf": false,
+   "close": 8.54,
+   "final_score": 0.5168,
+   "composite": 0.5168,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.309,
+    "momentum": 0.172,
+    "relative_strength": 0.972,
+    "ml_outlier": 0.891
+   },
+   "stats": {
+    "ret_1d": 0.0095,
+    "ret_5d": 0.0504,
+    "ret_20d": 0.0132,
+    "gap_pct": 0.0083,
+    "dist_52w_high": -0.1037,
+    "vol_z": 1.1655,
+    "dollar_vol_ratio": 2.3039,
+    "dollar_volume": 1766037.8321
+   }
+  },
+  {
+   "ticker": "VKI",
+   "name": "Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)",
+   "is_etf": false,
+   "close": 8.23,
+   "final_score": 0.5101,
+   "composite": 0.5101,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.283,
+    "momentum": 0.141,
+    "relative_strength": 0.986,
+    "ml_outlier": 0.929
+   },
+   "stats": {
+    "ret_1d": 0.0061,
+    "ret_5d": 0.0674,
+    "ret_20d": 0.0158,
+    "gap_pct": 0.011,
+    "dist_52w_high": -0.1147,
+    "vol_z": 0.8888,
+    "dollar_vol_ratio": 2.5151,
+    "dollar_volume": 2073128.6547
+   }
+  },
+  {
+   "ticker": "IIM",
+   "name": "Invesco Value Municipal Income Trust Common Stock",
+   "is_etf": false,
+   "close": 11.25,
+   "final_score": 0.5065,
+   "composite": 0.5065,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.274,
+    "momentum": 0.168,
+    "relative_strength": 0.969,
+    "ml_outlier": 0.902
+   },
+   "stats": {
+    "ret_1d": 0.0108,
+    "ret_5d": 0.0623,
+    "ret_20d": -0.0104,
+    "gap_pct": 0.0027,
+    "dist_52w_high": -0.1122,
+    "vol_z": 1.0224,
+    "dollar_vol_ratio": 2.0846,
+    "dollar_volume": 3038647.5
+   }
+  },
+  {
+   "ticker": "DBL",
+   "name": "DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest",
+   "is_etf": false,
+   "close": 13.7,
+   "final_score": 0.5045,
+   "composite": 0.5045,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.421,
+    "momentum": 0.094,
+    "relative_strength": 0.926,
+    "ml_outlier": 0.825
+   },
+   "stats": {
+    "ret_1d": 0.0074,
+    "ret_5d": 0.0293,
+    "ret_20d": 0.0119,
+    "gap_pct": -0.0037,
+    "dist_52w_high": -0.0394,
+    "vol_z": 1.5006,
+    "dollar_vol_ratio": 3.2874,
+    "dollar_volume": 2779990.2613
+   }
+  },
+  {
+   "ticker": "GSC",
+   "name": "Goldman Sachs Small Cap Equity ETF",
+   "is_etf": true,
+   "close": 62.0409,
+   "final_score": 0.4989,
+   "composite": 0.4989,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.428,
+    "momentum": 0.149,
+    "relative_strength": 0.883,
+    "ml_outlier": 0.745
+   },
+   "stats": {
+    "ret_1d": 0.0063,
+    "ret_5d": 0.0239,
+    "ret_20d": 0.0026,
+    "gap_pct": 0.0034,
+    "dist_52w_high": -0.1029,
+    "vol_z": 1.4239,
+    "dollar_vol_ratio": 3.7302,
+    "dollar_volume": 2458370.7094
+   }
+  },
+  {
+   "ticker": "QUS",
+   "name": "State Street SPDR MSCI USA StrategicFactors ETF",
+   "is_etf": true,
+   "close": 196.969,
+   "final_score": 0.4972,
+   "composite": 0.4972,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.367,
+    "momentum": 0.29,
+    "relative_strength": 0.861,
+    "ml_outlier": 0.639
+   },
+   "stats": {
+    "ret_1d": 0.0023,
+    "ret_5d": 0.0111,
+    "ret_20d": 0.0275,
+    "gap_pct": -0.0021,
+    "dist_52w_high": 0.0,
+    "vol_z": 1.5313,
+    "dollar_vol_ratio": 2.26,
+    "dollar_volume": 4954361.1096
+   }
+  },
+  {
+   "ticker": "PML",
+   "name": "Pimco Municipal Income Fund II Common Shares of Beneficial Interest",
+   "is_etf": false,
+   "close": 6.76,
+   "final_score": 0.4958,
+   "composite": 0.4958,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.284,
+    "momentum": 0.142,
+    "relative_strength": 0.964,
+    "ml_outlier": 0.876
+   },
+   "stats": {
+    "ret_1d": 0.009,
+    "ret_5d": 0.0464,
+    "ret_20d": 0.0152,
+    "gap_pct": 0.0104,
+    "dist_52w_high": -0.1051,
+    "vol_z": 1.0461,
+    "dollar_vol_ratio": 2.201,
+    "dollar_volume": 7176605.523
+   }
+  },
+  {
+   "ticker": "ZALT",
+   "name": "Innovator U.S. Equity 10 Buffer ETF - Quarterly",
+   "is_etf": true,
+   "close": 34.78,
+   "final_score": 0.4862,
+   "composite": 0.4862,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.558,
+    "momentum": 0.299,
+    "relative_strength": 0.457,
+    "ml_outlier": 0.69
+   },
+   "stats": {
+    "ret_1d": 0.0017,
+    "ret_5d": 0.0023,
+    "ret_20d": 0.0029,
+    "gap_pct": 0.0005,
+    "dist_52w_high": -0.0014,
+    "vol_z": 1.9518,
+    "dollar_vol_ratio": 4.5243,
+    "dollar_volume": 10671094.8855
+   }
+  },
+  {
+   "ticker": "DPG",
+   "name": "Duff & Phelps Utility and Infrastructure Fund Inc.",
+   "is_etf": false,
+   "close": 13.55,
+   "final_score": 0.4822,
+   "composite": 0.4822,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.149,
+    "momentum": 0.163,
+    "relative_strength": 0.987,
+    "ml_outlier": 0.956
+   },
+   "stats": {
+    "ret_1d": 0.0188,
+    "ret_5d": 0.032,
+    "ret_20d": 0.0484,
+    "gap_pct": 0.0045,
+    "dist_52w_high": -0.0832,
+    "vol_z": 0.4155,
+    "dollar_vol_ratio": 1.2038,
+    "dollar_volume": 1028241.7645
+   }
+  },
+  {
+   "ticker": "PEO",
+   "name": "Adams Natural Resources Fund, Inc. Common Stock",
+   "is_etf": false,
+   "close": 30.25,
+   "final_score": 0.4731,
+   "composite": 0.4731,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.112,
+    "momentum": 0.263,
+    "relative_strength": 0.981,
+    "ml_outlier": 0.822
+   },
+   "stats": {
+    "ret_1d": 0.0036,
+    "ret_5d": 0.024,
+    "ret_20d": 0.0773,
+    "gap_pct": 0.0017,
+    "dist_52w_high": 0.0,
+    "vol_z": 0.0062,
+    "dollar_vol_ratio": 1.0871,
+    "dollar_volume": 1649441.75
+   }
+  },
+  {
+   "ticker": "MCHPP",
+   "name": "Microchip Technology Incorporated - Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock",
+   "is_etf": false,
+   "close": 66.22,
+   "final_score": 0.471,
+   "composite": 0.471,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.06,
+    "momentum": 0.2,
+    "relative_strength": 0.991,
+    "ml_outlier": 0.975
+   },
+   "stats": {
+    "ret_1d": 0.0056,
+    "ret_5d": 0.0755,
+    "ret_20d": 0.0233,
+    "gap_pct": 0.0194,
+    "dist_52w_high": -0.216,
+    "vol_z": -0.5167,
+    "dollar_vol_ratio": 0.5425,
+    "dollar_volume": 1866013.4144
+   }
+  },
+  {
+   "ticker": "HYT",
+   "name": "Blackrock Corporate High Yield Fund, Inc. Common Stock",
+   "is_etf": false,
+   "close": 7.76,
+   "final_score": 0.4697,
+   "composite": 0.4697,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.385,
+    "momentum": 0.123,
+    "relative_strength": 0.85,
+    "ml_outlier": 0.735
+   },
+   "stats": {
+    "ret_1d": 0.0104,
+    "ret_5d": 0.0141,
+    "ret_20d": 0.0012,
+    "gap_pct": 0.0039,
+    "dist_52w_high": -0.0946,
+    "vol_z": 1.8056,
+    "dollar_vol_ratio": 1.7413,
+    "dollar_volume": 13008980.7837
+   }
+  },
+  {
+   "ticker": "NUW",
+   "name": "Nuveen AMT-Free Municipal Value Fund",
+   "is_etf": false,
+   "close": 13.49,
+   "final_score": 0.4645,
+   "composite": 0.4645,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.269,
+    "momentum": 0.118,
+    "relative_strength": 0.961,
+    "ml_outlier": 0.781
+   },
+   "stats": {
+    "ret_1d": 0.003,
+    "ret_5d": 0.0392,
+    "ret_20d": 0.0368,
+    "gap_pct": 0.0022,
+    "dist_52w_high": -0.0549,
+    "vol_z": 1.0574,
+    "dollar_vol_ratio": 1.939,
+    "dollar_volume": 1668564.5817
+   }
+  },
+  {
+   "ticker": "BGR",
+   "name": "BlackRock Energy and Resources Trust",
+   "is_etf": false,
+   "close": 18.3,
+   "final_score": 0.4637,
+   "composite": 0.4637,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.076,
+    "momentum": 0.261,
+    "relative_strength": 0.95,
+    "ml_outlier": 0.865
+   },
+   "stats": {
+    "ret_1d": 0.0033,
+    "ret_5d": 0.0087,
+    "ret_20d": 0.0728,
+    "gap_pct": 0.0,
+    "dist_52w_high": -0.0033,
+    "vol_z": -0.5672,
+    "dollar_vol_ratio": 0.9001,
+    "dollar_volume": 1360495.1433
+   }
+  }
+ ]
+}
