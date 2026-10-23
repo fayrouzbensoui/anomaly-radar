@@ -1,0 +1,1011 @@
+{
+ "generated_at": "2026-10-23T00:51:28+00:00",
+ "asof": "2026-10-23",
+ "universe_size": 12045,
+ "scanned": 691,
+ "candidates": 331,
+ "flagged_options_flow": 0,
+ "disclaimer": "Statistical anomaly screen, not investment advice. Anomalies mark unusual behavior, not guaranteed appreciation. Do your own research.",
+ "results": [
+  {
+   "ticker": "MPRO",
+   "name": "Monarch ProCap Index ETF",
+   "is_etf": true,
+   "close": 33.09,
+   "final_score": 0.7352,
+   "composite": 0.7352,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.849,
+    "momentum": 0.364,
+    "relative_strength": 0.922,
+    "ml_outlier": 0.935
+   },
+   "stats": {
+    "ret_1d": 0.0129,
+    "ret_5d": 0.0178,
+    "ret_20d": 0.0429,
+    "gap_pct": -0.0006,
+    "dist_52w_high": 0.0,
+    "vol_z": 3.2587,
+    "dollar_vol_ratio": 8.7685,
+    "dollar_volume": 4365133.5501
+   }
+  },
+  {
+   "ticker": "IBIH",
+   "name": "iShares iBonds Oct 2031 Term TIPS ETF",
+   "is_etf": true,
+   "close": 25.2798,
+   "final_score": 0.7191,
+   "composite": 0.7191,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.896,
+    "momentum": 0.375,
+    "relative_strength": 0.751,
+    "ml_outlier": 0.938
+   },
+   "stats": {
+    "ret_1d": 0.0058,
+    "ret_5d": 0.0078,
+    "ret_20d": 0.0163,
+    "gap_pct": 0.003,
+    "dist_52w_high": -0.019,
+    "vol_z": 3.5102,
+    "dollar_vol_ratio": 13.6577,
+    "dollar_volume": 13423017.8648
+   }
+  },
+  {
+   "ticker": "PAYR",
+   "name": "Federated Hermes Enhanced Income ETF",
+   "is_etf": true,
+   "close": 56.385,
+   "final_score": 0.7132,
+   "composite": 0.7132,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.688,
+    "momentum": 0.394,
+    "relative_strength": 0.984,
+    "ml_outlier": 0.958
+   },
+   "stats": {
+    "ret_1d": 0.024,
+    "ret_5d": 0.0383,
+    "ret_20d": 0.0676,
+    "gap_pct": 0.0148,
+    "dist_52w_high": 0.0,
+    "vol_z": 2.5391,
+    "dollar_vol_ratio": 5.1714,
+    "dollar_volume": 3943623.1676
+   }
+  },
+  {
+   "ticker": "CGSD",
+   "name": "Capital Group Short Duration Income ETF",
+   "is_etf": true,
+   "close": 25.51,
+   "final_score": 0.6902,
+   "composite": 0.6902,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.833,
+    "momentum": 0.415,
+    "relative_strength": 0.667,
+    "ml_outlier": 0.912
+   },
+   "stats": {
+    "ret_1d": 0.0055,
+    "ret_5d": 0.0051,
+    "ret_20d": 0.0096,
+    "gap_pct": 0.0012,
+    "dist_52w_high": -0.0026,
+    "vol_z": 3.465,
+    "dollar_vol_ratio": 5.8794,
+    "dollar_volume": 90940829.4059
+   }
+  },
+  {
+   "ticker": "MFSV",
+   "name": "MFS Active Value ETF",
+   "is_etf": true,
+   "close": 29.68,
+   "final_score": 0.6865,
+   "composite": 0.6865,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.811,
+    "momentum": 0.293,
+    "relative_strength": 0.907,
+    "ml_outlier": 0.87
+   },
+   "stats": {
+    "ret_1d": 0.0058,
+    "ret_5d": 0.0168,
+    "ret_20d": 0.0506,
+    "gap_pct": -0.0003,
+    "dist_52w_high": -0.0099,
+    "vol_z": 3.1851,
+    "dollar_vol_ratio": 6.342,
+    "dollar_volume": 13832839.0222
+   }
+  },
+  {
+   "ticker": "TMB",
+   "name": "Thornburg Multi Sector Bond ETF",
+   "is_etf": true,
+   "close": 24.925,
+   "final_score": 0.6761,
+   "composite": 0.6761,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.848,
+    "momentum": 0.33,
+    "relative_strength": 0.677,
+    "ml_outlier": 0.936
+   },
+   "stats": {
+    "ret_1d": 0.0061,
+    "ret_5d": 0.0048,
+    "ret_20d": 0.0103,
+    "gap_pct": 0.0026,
+    "dist_52w_high": -0.0128,
+    "vol_z": 3.0537,
+    "dollar_vol_ratio": 16.3955,
+    "dollar_volume": 17380401.368
+   }
+  },
+  {
+   "ticker": "FMUN",
+   "name": "Fidelity Systematic Municipal Bond Index ETF",
+   "is_etf": true,
+   "close": 48.3328,
+   "final_score": 0.667,
+   "composite": 0.667,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.949,
+    "momentum": 0.081,
+    "relative_strength": 0.836,
+    "ml_outlier": 0.954
+   },
+   "stats": {
+    "ret_1d": 0.0084,
+    "ret_5d": 0.0096,
+    "ret_20d": 0.0231,
+    "gap_pct": 0.0065,
+    "dist_52w_high": -0.0364,
+    "vol_z": 4.2357,
+    "dollar_vol_ratio": 15.8817,
+    "dollar_volume": 10179468.0567
+   }
+  },
+  {
+   "ticker": "SITC",
+   "name": "SITE Centers Corp. Common Stock",
+   "is_etf": false,
+   "close": 3.74,
+   "final_score": 0.6463,
+   "composite": 0.6463,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.6,
+    "momentum": 0.224,
+    "relative_strength": 0.999,
+    "ml_outlier": 0.997
+   },
+   "stats": {
+    "ret_1d": 0.0081,
+    "ret_5d": 0.2425,
+    "ret_20d": 0.2384,
+    "gap_pct": 0.0081,
+    "dist_52w_high": -0.2796,
+    "vol_z": 2.0224,
+    "dollar_vol_ratio": 5.5229,
+    "dollar_volume": 14551506.0171
+   }
+  },
+  {
+   "ticker": "PBPH",
+   "name": "Portfolio Building Block World Pharma and Biotech Index ETF",
+   "is_etf": true,
+   "close": 30.1286,
+   "final_score": 0.6355,
+   "composite": 0.6355,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.602,
+    "momentum": 0.301,
+    "relative_strength": 0.949,
+    "ml_outlier": 0.874
+   },
+   "stats": {
+    "ret_1d": 0.0145,
+    "ret_5d": 0.0307,
+    "ret_20d": 0.0503,
+    "gap_pct": 0.0037,
+    "dist_52w_high": 0.0,
+    "vol_z": 2.9408,
+    "dollar_vol_ratio": 1.9375,
+    "dollar_volume": 4918915.6144
+   }
+  },
+  {
+   "ticker": "XMLV",
+   "name": "Invesco S&P MidCap Low Volatility ETF",
+   "is_etf": true,
+   "close": 65.78,
+   "final_score": 0.6351,
+   "composite": 0.6351,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.776,
+    "momentum": 0.127,
+    "relative_strength": 0.923,
+    "ml_outlier": 0.897
+   },
+   "stats": {
+    "ret_1d": 0.0151,
+    "ret_5d": 0.0235,
+    "ret_20d": 0.0291,
+    "gap_pct": 0.0005,
+    "dist_52w_high": -0.0511,
+    "vol_z": 2.7958,
+    "dollar_vol_ratio": 7.7265,
+    "dollar_volume": 6474527.9398
+   }
+  },
+  {
+   "ticker": "IBMR",
+   "name": "iShares iBonds Dec 2029 Term Muni Bond ETF",
+   "is_etf": true,
+   "close": 25.095,
+   "final_score": 0.6186,
+   "composite": 0.6186,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.711,
+    "momentum": 0.355,
+    "relative_strength": 0.7,
+    "ml_outlier": 0.793
+   },
+   "stats": {
+    "ret_1d": 0.0046,
+    "ret_5d": 0.0066,
+    "ret_20d": 0.0144,
+    "gap_pct": 0.0028,
+    "dist_52w_high": -0.0082,
+    "vol_z": 2.5597,
+    "dollar_vol_ratio": 5.9945,
+    "dollar_volume": 13370063.5442
+   }
+  },
+  {
+   "ticker": "PLBC",
+   "name": "Plumas Bancorp - Common Stock",
+   "is_etf": false,
+   "close": 63.49,
+   "final_score": 0.6083,
+   "composite": 0.6083,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.495,
+    "momentum": 0.336,
+    "relative_strength": 0.896,
+    "ml_outlier": 0.9
+   },
+   "stats": {
+    "ret_1d": 0.007,
+    "ret_5d": 0.0232,
+    "ret_20d": 0.032,
+    "gap_pct": -0.0238,
+    "dist_52w_high": -0.0013,
+    "vol_z": 2.2287,
+    "dollar_vol_ratio": 2.1694,
+    "dollar_volume": 6269764.6458
+   }
+  },
+  {
+   "ticker": "EFSI",
+   "name": "Eagle Financial Services Inc - Common Stock",
+   "is_etf": false,
+   "close": 46.51,
+   "final_score": 0.6058,
+   "composite": 0.6058,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.566,
+    "momentum": 0.363,
+    "relative_strength": 0.891,
+    "ml_outlier": 0.744
+   },
+   "stats": {
+    "ret_1d": 0.0133,
+    "ret_5d": 0.0166,
+    "ret_20d": 0.0244,
+    "gap_pct": 0.0,
+    "dist_52w_high": -0.0015,
+    "vol_z": 2.2946,
+    "dollar_vol_ratio": 3.1722,
+    "dollar_volume": 5208747.732
+   }
+  },
+  {
+   "ticker": "BSMS",
+   "name": "Invesco BulletShares 2028 Municipal Bond ETF",
+   "is_etf": true,
+   "close": 23.12,
+   "final_score": 0.6026,
+   "composite": 0.6026,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.705,
+    "momentum": 0.346,
+    "relative_strength": 0.687,
+    "ml_outlier": 0.748
+   },
+   "stats": {
+    "ret_1d": 0.0059,
+    "ret_5d": 0.0044,
+    "ret_20d": 0.0125,
+    "gap_pct": 0.0028,
+    "dist_52w_high": -0.0074,
+    "vol_z": 2.6008,
+    "dollar_vol_ratio": 5.4276,
+    "dollar_volume": 11210819.0469
+   }
+  },
+  {
+   "ticker": "ORRF",
+   "name": "Orrstown Financial Services, Inc. - Common Stock",
+   "is_etf": false,
+   "close": 44.32,
+   "final_score": 0.5968,
+   "composite": 0.5968,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.22,
+    "momentum": 0.474,
+    "relative_strength": 0.991,
+    "ml_outlier": 0.951
+   },
+   "stats": {
+    "ret_1d": 0.0333,
+    "ret_5d": 0.0682,
+    "ret_20d": 0.059,
+    "gap_pct": 0.0033,
+    "dist_52w_high": 0.0,
+    "vol_z": 0.8984,
+    "dollar_vol_ratio": 1.511,
+    "dollar_volume": 5288927.1636
+   }
+  },
+  {
+   "ticker": "FNLC",
+   "name": "First Bancorp, Inc (ME) - Common Stock",
+   "is_etf": false,
+   "close": 36.17,
+   "final_score": 0.5877,
+   "composite": 0.5877,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.162,
+    "momentum": 0.488,
+    "relative_strength": 0.996,
+    "ml_outlier": 0.967
+   },
+   "stats": {
+    "ret_1d": 0.0466,
+    "ret_5d": 0.0701,
+    "ret_20d": 0.0695,
+    "gap_pct": 0.0091,
+    "dist_52w_high": 0.0,
+    "vol_z": 0.5152,
+    "dollar_vol_ratio": 1.2755,
+    "dollar_volume": 1368636.5607
+   }
+  },
+  {
+   "ticker": "TAXF",
+   "name": "American Century Diversified Municipal Bond ETF",
+   "is_etf": true,
+   "close": 48.45,
+   "final_score": 0.5828,
+   "composite": 0.5828,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.741,
+    "momentum": 0.072,
+    "relative_strength": 0.828,
+    "ml_outlier": 0.867
+   },
+   "stats": {
+    "ret_1d": 0.0075,
+    "ret_5d": 0.0121,
+    "ret_20d": 0.0178,
+    "gap_pct": 0.0075,
+    "dist_52w_high": -0.0358,
+    "vol_z": 2.4758,
+    "dollar_vol_ratio": 10.3079,
+    "dollar_volume": 30462647.2797
+   }
+  },
+  {
+   "ticker": "CDC",
+   "name": "VictoryShares US EQ Income Enhanced Volatility Wtd ETF",
+   "is_etf": true,
+   "close": 77.4383,
+   "final_score": 0.5781,
+   "composite": 0.5781,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.182,
+    "momentum": 0.458,
+    "relative_strength": 0.986,
+    "ml_outlier": 0.946
+   },
+   "stats": {
+    "ret_1d": 0.0231,
+    "ret_5d": 0.0387,
+    "ret_20d": 0.0748,
+    "gap_pct": -0.0002,
+    "dist_52w_high": 0.0,
+    "vol_z": 0.6601,
+    "dollar_vol_ratio": 1.3482,
+    "dollar_volume": 1222905.6508
+   }
+  },
+  {
+   "ticker": "EOT",
+   "name": "Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST",
+   "is_etf": false,
+   "close": 15.64,
+   "final_score": 0.5692,
+   "composite": 0.5692,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.786,
+    "momentum": 0.019,
+    "relative_strength": 0.795,
+    "ml_outlier": 0.844
+   },
+   "stats": {
+    "ret_1d": 0.0051,
+    "ret_5d": 0.0143,
+    "ret_20d": 0.0162,
+    "gap_pct": 0.0051,
+    "dist_52w_high": -0.1022,
+    "vol_z": 2.9251,
+    "dollar_vol_ratio": 6.9841,
+    "dollar_volume": 4575779.2604
+   }
+  },
+  {
+   "ticker": "BRK-A",
+   "name": "Berkshire Hathaway Inc. Common Stock",
+   "is_etf": false,
+   "close": 820500.0,
+   "final_score": 0.5685,
+   "composite": 0.5685,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.316,
+    "momentum": 0.352,
+    "relative_strength": 0.977,
+    "ml_outlier": 0.863
+   },
+   "stats": {
+    "ret_1d": 0.0113,
+    "ret_5d": 0.0393,
+    "ret_20d": 0.0807,
+    "gap_pct": 0.0015,
+    "dist_52w_high": 0.0,
+    "vol_z": 1.4386,
+    "dollar_vol_ratio": 1.7206,
+    "dollar_volume": 260919000.0
+   }
+  },
+  {
+   "ticker": "OVLY",
+   "name": "Oak Valley Bancorp (CA) - Common Stock",
+   "is_etf": false,
+   "close": 34.25,
+   "final_score": 0.5636,
+   "composite": 0.5636,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.048,
+    "momentum": 0.585,
+    "relative_strength": 0.938,
+    "ml_outlier": 0.931
+   },
+   "stats": {
+    "ret_1d": 0.0304,
+    "ret_5d": 0.0209,
+    "ret_20d": 0.0082,
+    "gap_pct": 0.0262,
+    "dist_52w_high": -0.0181,
+    "vol_z": -1.0611,
+    "dollar_vol_ratio": 0.5927,
+    "dollar_volume": 385826.25
+   }
+  },
+  {
+   "ticker": "JTNY",
+   "name": "JPMorgan New York Tax Free Bond ETF",
+   "is_etf": true,
+   "close": 48.08,
+   "final_score": 0.5552,
+   "composite": 0.5552,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.649,
+    "momentum": 0.097,
+    "relative_strength": 0.805,
+    "ml_outlier": 0.852
+   },
+   "stats": {
+    "ret_1d": 0.0092,
+    "ret_5d": 0.0075,
+    "ret_20d": 0.0169,
+    "gap_pct": 0.0078,
+    "dist_52w_high": -0.0328,
+    "vol_z": 2.0278,
+    "dollar_vol_ratio": 9.1199,
+    "dollar_volume": 14054024.9352
+   }
+  },
+  {
+   "ticker": "CVSB",
+   "name": "Calvert Ultra-Short Investment Grade ETF",
+   "is_etf": true,
+   "close": 50.63,
+   "final_score": 0.554,
+   "composite": 0.554,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.67,
+    "momentum": 0.288,
+    "relative_strength": 0.554,
+    "ml_outlier": 0.779
+   },
+   "stats": {
+    "ret_1d": 0.0008,
+    "ret_5d": 0.0018,
+    "ret_20d": 0.0038,
+    "gap_pct": 0.0,
+    "dist_52w_high": 0.0,
+    "vol_z": 2.1912,
+    "dollar_vol_ratio": 7.8946,
+    "dollar_volume": 6654351.6704
+   }
+  },
+  {
+   "ticker": "GRPM",
+   "name": "Invesco S&P MidCap 400 GARP ETF",
+   "is_etf": true,
+   "close": 145.16,
+   "final_score": 0.552,
+   "composite": 0.552,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.358,
+    "momentum": 0.314,
+    "relative_strength": 0.942,
+    "ml_outlier": 0.81
+   },
+   "stats": {
+    "ret_1d": 0.0097,
+    "ret_5d": 0.0262,
+    "ret_20d": 0.0628,
+    "gap_pct": -0.007,
+    "dist_52w_high": -0.0057,
+    "vol_z": 1.0551,
+    "dollar_vol_ratio": 3.4843,
+    "dollar_volume": 2950377.0744
+   }
+  },
+  {
+   "ticker": "LGLV",
+   "name": "State Street SPDR US Large Cap Low Volatility Index ETF",
+   "is_etf": true,
+   "close": 188.0,
+   "final_score": 0.5512,
+   "composite": 0.5512,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.181,
+    "momentum": 0.403,
+    "relative_strength": 0.975,
+    "ml_outlier": 0.904
+   },
+   "stats": {
+    "ret_1d": 0.0209,
+    "ret_5d": 0.0326,
+    "ret_20d": 0.0659,
+    "gap_pct": 0.0039,
+    "dist_52w_high": -0.0101,
+    "vol_z": 0.509,
+    "dollar_vol_ratio": 1.5777,
+    "dollar_volume": 5409700.0
+   }
+  },
+  {
+   "ticker": "MYN",
+   "name": "Blackrock MuniYield New York Quality Fund, Inc.Common Stock",
+   "is_etf": false,
+   "close": 8.95,
+   "final_score": 0.5456,
+   "composite": 0.5456,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.732,
+    "momentum": 0.029,
+    "relative_strength": 0.773,
+    "ml_outlier": 0.813
+   },
+   "stats": {
+    "ret_1d": 0.009,
+    "ret_5d": 0.0102,
+    "ret_20d": 0.0093,
+    "gap_pct": 0.0056,
+    "dist_52w_high": -0.1034,
+    "vol_z": 2.6982,
+    "dollar_vol_ratio": 5.893,
+    "dollar_volume": 13654531.409
+   }
+  },
+  {
+   "ticker": "BEDY",
+   "name": "BNY Mellon Enhanced Dividend and Income ETF",
+   "is_etf": true,
+   "close": 29.43,
+   "final_score": 0.5444,
+   "composite": 0.5444,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.532,
+    "momentum": 0.307,
+    "relative_strength": 0.839,
+    "ml_outlier": 0.624
+   },
+   "stats": {
+    "ret_1d": 0.0051,
+    "ret_5d": 0.0131,
+    "ret_20d": 0.0263,
+    "gap_pct": -0.0014,
+    "dist_52w_high": -0.0144,
+    "vol_z": 2.1524,
+    "dollar_vol_ratio": 3.0392,
+    "dollar_volume": 8499972.6881
+   }
+  },
+  {
+   "ticker": "CFBK",
+   "name": "CF Bankshares Inc. - Common Stock",
+   "is_etf": false,
+   "close": 34.57,
+   "final_score": 0.5434,
+   "composite": 0.5434,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.336,
+    "momentum": 0.235,
+    "relative_strength": 0.955,
+    "ml_outlier": 0.906
+   },
+   "stats": {
+    "ret_1d": 0.0304,
+    "ret_5d": 0.0301,
+    "ret_20d": 0.0161,
+    "gap_pct": 0.003,
+    "dist_52w_high": -0.0454,
+    "vol_z": 1.441,
+    "dollar_vol_ratio": 2.0152,
+    "dollar_volume": 2410531.5087
+   }
+  },
+  {
+   "ticker": "PPLC",
+   "name": "PPL Corporation Corporate Units",
+   "is_etf": false,
+   "close": 47.07,
+   "final_score": 0.5432,
+   "composite": 0.5432,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.493,
+    "momentum": 0.08,
+    "relative_strength": 0.941,
+    "ml_outlier": 0.916
+   },
+   "stats": {
+    "ret_1d": 0.0142,
+    "ret_5d": 0.0138,
+    "ret_20d": 0.0625,
+    "gap_pct": 0.0095,
+    "dist_52w_high": -0.0709,
+    "vol_z": 1.1439,
+    "dollar_vol_ratio": 9.562,
+    "dollar_volume": 14597819.0054
+   }
+  },
+  {
+   "ticker": "XELLL",
+   "name": "Xcel Energy Inc. - 6.25% Junior Subordinated Notes, Series due 2085",
+   "is_etf": false,
+   "close": 21.23,
+   "final_score": 0.5384,
+   "composite": 0.5384,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.688,
+    "momentum": 0.052,
+    "relative_strength": 0.754,
+    "ml_outlier": 0.828
+   },
+   "stats": {
+    "ret_1d": 0.0204,
+    "ret_5d": -0.0028,
+    "ret_20d": -0.0036,
+    "gap_pct": 0.0041,
+    "dist_52w_high": -0.11,
+    "vol_z": 2.5461,
+    "dollar_vol_ratio": 5.1205,
+    "dollar_volume": 8250635.9521
+   }
+  },
+  {
+   "ticker": "JCAL",
+   "name": "JPMorgan California Tax Free Bond ETF",
+   "is_etf": true,
+   "close": 48.35,
+   "final_score": 0.5354,
+   "composite": 0.5354,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.622,
+    "momentum": 0.08,
+    "relative_strength": 0.781,
+    "ml_outlier": 0.842
+   },
+   "stats": {
+    "ret_1d": 0.0077,
+    "ret_5d": 0.0094,
+    "ret_20d": 0.0149,
+    "gap_pct": 0.0058,
+    "dist_52w_high": -0.0308,
+    "vol_z": 1.8372,
+    "dollar_vol_ratio": 11.03,
+    "dollar_volume": 18218714.575
+   }
+  },
+  {
+   "ticker": "DUKU",
+   "name": "Duke Energy Corporation Corporate Units",
+   "is_etf": false,
+   "close": 50.35,
+   "final_score": 0.535,
+   "composite": 0.535,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.111,
+    "momentum": 0.445,
+    "relative_strength": 0.961,
+    "ml_outlier": 0.88
+   },
+   "stats": {
+    "ret_1d": 0.0248,
+    "ret_5d": 0.0381,
+    "ret_20d": 0.0244,
+    "gap_pct": 0.0047,
+    "dist_52w_high": 0.0,
+    "vol_z": 0.132,
+    "dollar_vol_ratio": 0.9261,
+    "dollar_volume": 17416064.4722
+   }
+  },
+  {
+   "ticker": "FVCB",
+   "name": "FVCBankcorp, Inc. - Common Stock",
+   "is_etf": false,
+   "close": 18.14,
+   "final_score": 0.5316,
+   "composite": 0.5316,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.348,
+    "momentum": 0.193,
+    "relative_strength": 0.964,
+    "ml_outlier": 0.883
+   },
+   "stats": {
+    "ret_1d": 0.0301,
+    "ret_5d": 0.0348,
+    "ret_20d": 0.0197,
+    "gap_pct": -0.0045,
+    "dist_52w_high": -0.0468,
+    "vol_z": 1.5313,
+    "dollar_vol_ratio": 1.9574,
+    "dollar_volume": 2209560.7657
+   }
+  },
+  {
+   "ticker": "DMB",
+   "name": "BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock",
+   "is_etf": false,
+   "close": 10.01,
+   "final_score": 0.5288,
+   "composite": 0.5288,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.375,
+    "momentum": 0.127,
+    "relative_strength": 0.981,
+    "ml_outlier": 0.91
+   },
+   "stats": {
+    "ret_1d": 0.0193,
+    "ret_5d": 0.0514,
+    "ret_20d": 0.0459,
+    "gap_pct": 0.0061,
+    "dist_52w_high": -0.0821,
+    "vol_z": 1.4998,
+    "dollar_vol_ratio": 2.4732,
+    "dollar_volume": 1730048.3596
+   }
+  },
+  {
+   "ticker": "RNIN",
+   "name": "Bushido Capital US SMID Cap Equity ETF",
+   "is_etf": true,
+   "close": 38.9199,
+   "final_score": 0.5183,
+   "composite": 0.5183,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.025,
+    "momentum": 0.412,
+    "relative_strength": 0.987,
+    "ml_outlier": 0.949
+   },
+   "stats": {
+    "ret_1d": 0.024,
+    "ret_5d": 0.0349,
+    "ret_20d": 0.085,
+    "gap_pct": 0.009,
+    "dist_52w_high": 0.0,
+    "vol_z": -1.7268,
+    "dollar_vol_ratio": 0.2444,
+    "dollar_volume": 153539.0015
+   }
+  },
+  {
+   "ticker": "FAB",
+   "name": "First Trust Multi Cap Value AlphaDEX Fund",
+   "is_etf": true,
+   "close": 105.8073,
+   "final_score": 0.5161,
+   "composite": 0.5161,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.031,
+    "momentum": 0.426,
+    "relative_strength": 0.968,
+    "ml_outlier": 0.928
+   },
+   "stats": {
+    "ret_1d": 0.0204,
+    "ret_5d": 0.0303,
+    "ret_20d": 0.0551,
+    "gap_pct": 0.0099,
+    "dist_52w_high": -0.0166,
+    "vol_z": -1.3544,
+    "dollar_vol_ratio": 0.2882,
+    "dollar_volume": 188231.1809
+   }
+  },
+  {
+   "ticker": "FMUB",
+   "name": "Fidelity Municipal Bond Opportunities ETF",
+   "is_etf": true,
+   "close": 49.5459,
+   "final_score": 0.5085,
+   "composite": 0.5085,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.61,
+    "momentum": 0.082,
+    "relative_strength": 0.813,
+    "ml_outlier": 0.692
+   },
+   "stats": {
+    "ret_1d": 0.0072,
+    "ret_5d": 0.0097,
+    "ret_20d": 0.0202,
+    "gap_pct": 0.005,
+    "dist_52w_high": -0.0282,
+    "vol_z": 2.1583,
+    "dollar_vol_ratio": 4.9054,
+    "dollar_volume": 18495335.249
+   }
+  },
+  {
+   "ticker": "BDL",
+   "name": "Flanigan's Enterprises, Inc. Common Stock",
+   "is_etf": false,
+   "close": 48.46,
+   "final_score": 0.5083,
+   "composite": 0.5083,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.417,
+    "momentum": 0.03,
+    "relative_strength": 0.929,
+    "ml_outlier": 0.942
+   },
+   "stats": {
+    "ret_1d": 0.0198,
+    "ret_5d": -0.0224,
+    "ret_20d": 0.091,
+    "gap_pct": -0.0002,
+    "dist_52w_high": -0.0639,
+    "vol_z": 1.5177,
+    "dollar_vol_ratio": 3.1592,
+    "dollar_volume": 4231672.5001
+   }
+  },
+  {
+   "ticker": "ISBA",
+   "name": "Isabella Bank Corporation - Common stock",
+   "is_etf": false,
+   "close": 38.68,
+   "final_score": 0.5042,
+   "composite": 0.5042,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.125,
+    "momentum": 0.251,
+    "relative_strength": 0.99,
+    "ml_outlier": 0.968
+   },
+   "stats": {
+    "ret_1d": 0.042,
+    "ret_5d": 0.0537,
+    "ret_20d": 0.0418,
+    "gap_pct": 0.0074,
+    "dist_52w_high": -0.3021,
+    "vol_z": 0.1689,
+    "dollar_vol_ratio": 1.1223,
+    "dollar_volume": 1927849.8952
+   }
+  },
+  {
+   "ticker": "SUSB",
+   "name": "iShares ESG Aware 1-5 Year USD Corporate Bond ETF",
+   "is_etf": true,
+   "close": 24.585,
+   "final_score": 0.5034,
+   "composite": 0.5034,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.397,
+    "momentum": 0.386,
+    "relative_strength": 0.656,
+    "ml_outlier": 0.686
+   },
+   "stats": {
+    "ret_1d": 0.0049,
+    "ret_5d": 0.0041,
+    "ret_20d": 0.0101,
+    "gap_pct": 0.0018,
+    "dist_52w_high": -0.0047,
+    "vol_z": 1.6732,
+    "dollar_vol_ratio": 2.3247,
+    "dollar_volume": 8592457.18
+   }
+  }
+ ]
+}
