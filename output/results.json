@@ -1,1010 +1,1276 @@
 {
- "generated_at": "2026-11-05T02:32:50+00:00",
- "asof": "2026-11-05",
- "universe_size": 12032,
- "scanned": 4825,
- "candidates": 3649,
- "flagged_options_flow": 0,
+ "generated_at": "2026-11-06T02:34:01+00:00",
+ "asof": "2026-11-06",
+ "universe_size": 12038,
+ "scanned": 6750,
+ "candidates": 1328,
+ "flagged_options_flow": 26,
  "disclaimer": "Statistical anomaly screen, not investment advice. Anomalies mark unusual behavior, not guaranteed appreciation. Do your own research.",
  "results": [
   {
-   "ticker": "HELE",
-   "name": "Helen of Troy Limited - Common Stock",
+   "ticker": "PTLO",
+   "name": "Portillo's Inc. - Class A Common Stock",
    "is_etf": false,
-   "close": 37.04,
-   "final_score": 0.961,
-   "composite": 0.961,
-   "options_bonus": 0.0,
+   "close": 7.02,
+   "final_score": 0.9968,
+   "composite": 0.9593,
+   "options_bonus": 0.0375,
    "signals": {
-    "volume": 0.95,
-    "momentum": 0.923,
+    "volume": 0.951,
+    "momentum": 0.916,
     "relative_strength": 0.996,
     "ml_outlier": 0.999
    },
    "stats": {
-    "ret_1d": 0.2539,
-    "ret_5d": 0.2637,
-    "ret_20d": 0.4497,
-    "gap_pct": 0.1537,
+    "ret_1d": 0.2881,
+    "ret_5d": 0.4153,
+    "ret_20d": 0.8,
+    "gap_pct": 0.1083,
     "dist_52w_high": 0.0,
-    "vol_z": 4.628,
-    "dollar_vol_ratio": 10.5752,
-    "dollar_volume": 108434602.6802
-   }
-  },
-  {
-   "ticker": "WEYS",
-   "name": "Weyco Group, Inc. - Common Stock",
-   "is_etf": false,
-   "close": 64.59,
-   "final_score": 0.9561,
-   "composite": 0.9561,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.903,
-    "momentum": 0.959,
-    "relative_strength": 0.995,
-    "ml_outlier": 0.992
+    "vol_z": 4.6539,
+    "dollar_vol_ratio": 10.5317,
+    "dollar_volume": 64793195.824
    },
-   "stats": {
-    "ret_1d": 0.2355,
-    "ret_5d": 0.2642,
-    "ret_20d": 0.2537,
-    "gap_pct": 0.0312,
-    "dist_52w_high": 0.0,
-    "vol_z": 4.0306,
-    "dollar_vol_ratio": 7.6605,
-    "dollar_volume": 8861747.4976
+   "options_flow": {
+    "call_volume": 6708.0,
+    "put_volume": 1315.0,
+    "call_vol_oi_ratio": 0.199,
+    "call_put_ratio": 5.101,
+    "otm_call_share": 0.419
    }
   },
   {
-   "ticker": "OPRT",
-   "name": "Oportun Financial Corporation - common stock",
+   "ticker": "ARDT",
+   "name": "Ardent Health, Inc. Common Stock",
    "is_etf": false,
-   "close": 13.01,
-   "final_score": 0.9477,
-   "composite": 0.9477,
+   "close": 15.9,
+   "final_score": 0.9585,
+   "composite": 0.9585,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.865,
-    "momentum": 0.963,
-    "relative_strength": 0.998,
-    "ml_outlier": 1.0
-   },
-   "stats": {
-    "ret_1d": 0.2958,
-    "ret_5d": 0.3316,
-    "ret_20d": 0.5618,
-    "gap_pct": 0.1952,
-    "dist_52w_high": 0.0,
-    "vol_z": 3.5345,
-    "dollar_vol_ratio": 7.4774,
-    "dollar_volume": 36617946.6442
-   }
-  },
-  {
-   "ticker": "TRNS",
-   "name": "Transcat, Inc. - Common Stock",
-   "is_etf": false,
-   "close": 108.13,
-   "final_score": 0.9388,
-   "composite": 0.9388,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.927,
-    "momentum": 0.878,
+    "volume": 0.95,
+    "momentum": 0.918,
     "relative_strength": 0.993,
-    "ml_outlier": 0.993
-   },
-   "stats": {
-    "ret_1d": 0.2079,
-    "ret_5d": 0.2169,
-    "ret_20d": 0.2178,
-    "gap_pct": 0.1058,
-    "dist_52w_high": 0.0,
-    "vol_z": 4.4537,
-    "dollar_vol_ratio": 8.0417,
-    "dollar_volume": 75777502.0752
-   }
-  },
-  {
-   "ticker": "XYZ",
-   "name": "Block, Inc. Class A Common Stock,",
-   "is_etf": false,
-   "close": 87.63,
-   "final_score": 0.923,
-   "composite": 0.923,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.914,
-    "momentum": 0.854,
-    "relative_strength": 0.979,
-    "ml_outlier": 0.985
-   },
-   "stats": {
-    "ret_1d": 0.153,
-    "ret_5d": 0.1651,
-    "ret_20d": 0.152,
-    "gap_pct": 0.1053,
-    "dist_52w_high": 0.0,
-    "vol_z": 5.2972,
-    "dollar_vol_ratio": 5.7605,
-    "dollar_volume": 1817007993.0496
-   }
-  },
-  {
-   "ticker": "SWK",
-   "name": "Stanley Black & Decker, Inc. Common Stock",
-   "is_etf": false,
-   "close": 118.33,
-   "final_score": 0.9052,
-   "composite": 0.9052,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.907,
-    "momentum": 0.799,
-    "relative_strength": 0.988,
-    "ml_outlier": 0.979
-   },
-   "stats": {
-    "ret_1d": 0.131,
-    "ret_5d": 0.1789,
-    "ret_20d": 0.3399,
-    "gap_pct": 0.0663,
-    "dist_52w_high": 0.0,
-    "vol_z": 5.4718,
-    "dollar_vol_ratio": 5.3867,
-    "dollar_volume": 766021099.8535
-   }
-  },
-  {
-   "ticker": "FLYW",
-   "name": "Flywire Corporation - Voting Common Stock",
-   "is_etf": false,
-   "close": 21.81,
-   "final_score": 0.9017,
-   "composite": 0.9017,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.905,
-    "momentum": 0.797,
-    "relative_strength": 0.979,
-    "ml_outlier": 0.977
-   },
-   "stats": {
-    "ret_1d": 0.1389,
-    "ret_5d": 0.1521,
-    "ret_20d": 0.2017,
-    "gap_pct": 0.0914,
-    "dist_52w_high": 0.0,
-    "vol_z": 5.0324,
-    "dollar_vol_ratio": 5.58,
-    "dollar_volume": 136116206.6669
-   }
-  },
-  {
-   "ticker": "UFPT",
-   "name": "UFP Technologies, Inc. - Common Stock",
-   "is_etf": false,
-   "close": 329.82,
-   "final_score": 0.9001,
-   "composite": 0.9001,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.841,
-    "momentum": 0.853,
-    "relative_strength": 0.981,
-    "ml_outlier": 0.979
-   },
-   "stats": {
-    "ret_1d": 0.1766,
-    "ret_5d": 0.1532,
-    "ret_20d": 0.1262,
-    "gap_pct": 0.0935,
-    "dist_52w_high": -0.015,
-    "vol_z": 4.7411,
-    "dollar_vol_ratio": 3.7991,
-    "dollar_volume": 118273454.6265
-   }
-  },
-  {
-   "ticker": "LYEL",
-   "name": "Lyell Immunopharma, Inc. - Common Stock",
-   "is_etf": false,
-   "close": 15.43,
-   "final_score": 0.8976,
-   "composite": 0.8976,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.967,
-    "momentum": 0.692,
-    "relative_strength": 0.999,
-    "ml_outlier": 1.0
-   },
-   "stats": {
-    "ret_1d": 0.4327,
-    "ret_5d": 0.4117,
-    "ret_20d": 0.8026,
-    "gap_pct": 0.1226,
-    "dist_52w_high": -0.6003,
-    "vol_z": 4.9974,
-    "dollar_vol_ratio": 12.5336,
-    "dollar_volume": 16976086.3358
-   }
-  },
-  {
-   "ticker": "LIVN",
-   "name": "LivaNova PLC - Ordinary Shares",
-   "is_etf": false,
-   "close": 94.19,
-   "final_score": 0.895,
-   "composite": 0.895,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.954,
-    "momentum": 0.709,
-    "relative_strength": 0.988,
-    "ml_outlier": 0.992
-   },
-   "stats": {
-    "ret_1d": 0.1788,
-    "ret_5d": 0.1677,
-    "ret_20d": 0.2405,
-    "gap_pct": 0.1223,
-    "dist_52w_high": 0.0,
-    "vol_z": 6.5022,
-    "dollar_vol_ratio": 7.8049,
-    "dollar_volume": 356876500.2502
-   }
-  },
-  {
-   "ticker": "TREX",
-   "name": "Trex Company, Inc. Common Stock",
-   "is_etf": false,
-   "close": 57.15,
-   "final_score": 0.888,
-   "composite": 0.888,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.854,
-    "momentum": 0.798,
-    "relative_strength": 0.987,
-    "ml_outlier": 0.974
-   },
-   "stats": {
-    "ret_1d": 0.143,
-    "ret_5d": 0.1536,
-    "ret_20d": 0.3042,
-    "gap_pct": 0.079,
-    "dist_52w_high": 0.0,
-    "vol_z": 4.0603,
-    "dollar_vol_ratio": 4.9283,
-    "dollar_volume": 336653513.9885
-   }
-  },
-  {
-   "ticker": "TREE",
-   "name": "LendingTree, Inc. - Common Stock",
-   "is_etf": false,
-   "close": 38.35,
-   "final_score": 0.8853,
-   "composite": 0.8853,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.894,
-    "momentum": 0.725,
-    "relative_strength": 0.998,
-    "ml_outlier": 1.0
-   },
-   "stats": {
-    "ret_1d": 0.3284,
-    "ret_5d": 0.4461,
-    "ret_20d": 0.5788,
-    "gap_pct": 0.0956,
-    "dist_52w_high": -0.4361,
-    "vol_z": 3.9161,
-    "dollar_vol_ratio": 7.4422,
-    "dollar_volume": 60201827.6047
-   }
-  },
-  {
-   "ticker": "IYC",
-   "name": "iShares U.S. Consumer Discretionary ETF",
-   "is_etf": true,
-   "close": 106.7,
-   "final_score": 0.8847,
-   "composite": 0.8847,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.995,
-    "momentum": 0.734,
-    "relative_strength": 0.859,
-    "ml_outlier": 0.972
-   },
-   "stats": {
-    "ret_1d": 0.0462,
-    "ret_5d": 0.0741,
-    "ret_20d": 0.1058,
-    "gap_pct": 0.0209,
-    "dist_52w_high": -0.0003,
-    "vol_z": 6.1519,
-    "dollar_vol_ratio": 43.2593,
-    "dollar_volume": 338463060.3195
-   }
-  },
-  {
-   "ticker": "ZBH",
-   "name": "Zimmer Biomet Holdings, Inc. Common Stock",
-   "is_etf": false,
-   "close": 110.15,
-   "final_score": 0.8839,
-   "composite": 0.8839,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.798,
-    "momentum": 0.845,
-    "relative_strength": 0.981,
-    "ml_outlier": 0.975
-   },
-   "stats": {
-    "ret_1d": 0.1349,
-    "ret_5d": 0.1428,
-    "ret_20d": 0.2448,
-    "gap_pct": 0.0911,
-    "dist_52w_high": 0.0,
-    "vol_z": 3.7607,
-    "dollar_vol_ratio": 3.8811,
-    "dollar_volume": 679614494.4145
-   }
-  },
-  {
-   "ticker": "KD",
-   "name": "Kyndryl Holdings, Inc. Common Stock",
-   "is_etf": false,
-   "close": 16.84,
-   "final_score": 0.8661,
-   "composite": 0.8661,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.897,
-    "momentum": 0.661,
-    "relative_strength": 0.996,
     "ml_outlier": 0.997
    },
    "stats": {
-    "ret_1d": 0.3014,
-    "ret_5d": 0.1952,
-    "ret_20d": 0.4707,
-    "gap_pct": 0.1522,
-    "dist_52w_high": -0.4177,
-    "vol_z": 4.8824,
-    "dollar_vol_ratio": 5.3821,
-    "dollar_volume": 251963450.2831
-   }
-  },
-  {
-   "ticker": "MMM",
-   "name": "3M Company Common Stock",
-   "is_etf": false,
-   "close": 193.95,
-   "final_score": 0.8607,
-   "composite": 0.8607,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.82,
-    "momentum": 0.775,
-    "relative_strength": 0.958,
-    "ml_outlier": 0.953
-   },
-   "stats": {
-    "ret_1d": 0.0955,
-    "ret_5d": 0.1224,
-    "ret_20d": 0.1963,
-    "gap_pct": 0.0884,
+    "ret_1d": 0.224,
+    "ret_5d": 0.2927,
+    "ret_20d": 0.4363,
+    "gap_pct": 0.1278,
     "dist_52w_high": 0.0,
-    "vol_z": 4.3505,
-    "dollar_vol_ratio": 3.6363,
-    "dollar_volume": 1755790532.373
-   }
-  },
-  {
-   "ticker": "PHG",
-   "name": "Koninklijke Philips N.V. NY Registry Shares",
-   "is_etf": false,
-   "close": 31.06,
-   "final_score": 0.8453,
-   "composite": 0.8453,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.726,
-    "momentum": 0.805,
-    "relative_strength": 0.975,
-    "ml_outlier": 0.954
+    "vol_z": 4.9596,
+    "dollar_vol_ratio": 9.088,
+    "dollar_volume": 39287309.0574
    },
-   "stats": {
-    "ret_1d": 0.0914,
-    "ret_5d": 0.1491,
-    "ret_20d": 0.2893,
-    "gap_pct": 0.0485,
-    "dist_52w_high": -0.0194,
-    "vol_z": 2.9537,
-    "dollar_vol_ratio": 4.2788,
-    "dollar_volume": 93919226.3851
+   "options_flow": {
+    "call_volume": 224.0,
+    "put_volume": 133.0,
+    "call_vol_oi_ratio": 0.167,
+    "call_put_ratio": 1.684,
+    "otm_call_share": 0.062
    }
   },
   {
-   "ticker": "SPB",
-   "name": "Spectrum Brands Holdings, Inc. Common Stock",
+   "ticker": "MGNI",
+   "name": "Magnite, Inc. - Common Stock",
    "is_etf": false,
-   "close": 91.57,
-   "final_score": 0.8409,
-   "composite": 0.8409,
-   "options_bonus": 0.0,
+   "close": 27.52,
+   "final_score": 0.9484,
+   "composite": 0.9109,
+   "options_bonus": 0.0375,
    "signals": {
-    "volume": 0.825,
-    "momentum": 0.729,
-    "relative_strength": 0.955,
-    "ml_outlier": 0.918
-   },
-   "stats": {
-    "ret_1d": 0.0772,
-    "ret_5d": 0.1492,
-    "ret_20d": 0.19,
-    "gap_pct": 0.0274,
-    "dist_52w_high": 0.0,
-    "vol_z": 4.5453,
-    "dollar_vol_ratio": 3.5746,
-    "dollar_volume": 93877563.6871
-   }
-  },
-  {
-   "ticker": "RYTM",
-   "name": "Rhythm Pharmaceuticals, Inc. - Common Stock",
-   "is_etf": false,
-   "close": 110.68,
-   "final_score": 0.8394,
-   "composite": 0.8394,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.936,
-    "momentum": 0.539,
-    "relative_strength": 0.995,
-    "ml_outlier": 0.99
-   },
-   "stats": {
-    "ret_1d": 0.2804,
-    "ret_5d": 0.2034,
-    "ret_20d": 0.2513,
-    "gap_pct": -0.0058,
-    "dist_52w_high": -0.059,
-    "vol_z": 4.2395,
-    "dollar_vol_ratio": 10.6291,
-    "dollar_volume": 607168345.6741
-   }
-  },
-  {
-   "ticker": "UYG",
-   "name": "ProShares Ultra Financials",
-   "is_etf": true,
-   "close": 101.94,
-   "final_score": 0.839,
-   "composite": 0.839,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.798,
-    "momentum": 0.75,
-    "relative_strength": 0.942,
-    "ml_outlier": 0.931
-   },
-   "stats": {
-    "ret_1d": 0.0699,
-    "ret_5d": 0.1067,
-    "ret_20d": 0.2041,
-    "gap_pct": 0.0406,
-    "dist_52w_high": 0.0,
-    "vol_z": 2.9362,
-    "dollar_vol_ratio": 7.8136,
-    "dollar_volume": 7553754.1809
-   }
-  },
-  {
-   "ticker": "SWIM",
-   "name": "Latham Group, Inc. - Common Stock",
-   "is_etf": false,
-   "close": 8.18,
-   "final_score": 0.8374,
-   "composite": 0.8374,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.806,
-    "momentum": 0.697,
-    "relative_strength": 0.982,
-    "ml_outlier": 0.951
-   },
-   "stats": {
-    "ret_1d": 0.1175,
-    "ret_5d": 0.1603,
-    "ret_20d": 0.2841,
-    "gap_pct": 0.0246,
-    "dist_52w_high": 0.0,
-    "vol_z": 3.3825,
-    "dollar_vol_ratio": 5.1062,
-    "dollar_volume": 25230392.9413
-   }
-  },
-  {
-   "ticker": "VRDN",
-   "name": "Viridian Therapeutics, Inc.  - Common Stock",
-   "is_etf": false,
-   "close": 29.055,
-   "final_score": 0.8337,
-   "composite": 0.8337,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.934,
-    "momentum": 0.52,
-    "relative_strength": 0.995,
-    "ml_outlier": 0.992
-   },
-   "stats": {
-    "ret_1d": 0.1553,
-    "ret_5d": 0.1972,
-    "ret_20d": 0.5894,
-    "gap_pct": 0.1239,
-    "dist_52w_high": -0.1399,
-    "vol_z": 4.3987,
-    "dollar_vol_ratio": 9.0836,
-    "dollar_volume": 324718683.4106
-   }
-  },
-  {
-   "ticker": "PCOR",
-   "name": "Procore Technologies, Inc. Common Stock",
-   "is_etf": false,
-   "close": 75.6,
-   "final_score": 0.8264,
-   "composite": 0.8264,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.801,
-    "momentum": 0.634,
-    "relative_strength": 0.994,
+    "volume": 0.868,
+    "momentum": 0.854,
+    "relative_strength": 0.987,
     "ml_outlier": 0.985
    },
    "stats": {
-    "ret_1d": 0.1968,
-    "ret_5d": 0.2184,
-    "ret_20d": 0.3796,
-    "gap_pct": 0.0595,
-    "dist_52w_high": -0.0503,
-    "vol_z": 3.5882,
-    "dollar_vol_ratio": 4.323,
-    "dollar_volume": 682085866.2331
-   }
-  },
-  {
-   "ticker": "PFGC",
-   "name": "Performance Food Group Company Common Stock",
-   "is_etf": false,
-   "close": 109.57,
-   "final_score": 0.8253,
-   "composite": 0.8253,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.87,
-    "momentum": 0.585,
-    "relative_strength": 0.972,
-    "ml_outlier": 0.973
-   },
-   "stats": {
-    "ret_1d": 0.1353,
-    "ret_5d": 0.1385,
-    "ret_20d": 0.1721,
-    "gap_pct": 0.0854,
-    "dist_52w_high": -0.0607,
-    "vol_z": 4.1333,
-    "dollar_vol_ratio": 5.3602,
-    "dollar_volume": 695846197.0619
-   }
-  },
-  {
-   "ticker": "OSCR",
-   "name": "Oscar Health, Inc. Class A Common Stock",
-   "is_etf": false,
-   "close": 35.19,
-   "final_score": 0.8249,
-   "composite": 0.8249,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.787,
-    "momentum": 0.71,
-    "relative_strength": 0.937,
-    "ml_outlier": 0.943
-   },
-   "stats": {
-    "ret_1d": 0.0858,
-    "ret_5d": 0.1545,
-    "ret_20d": 0.0693,
-    "gap_pct": 0.0994,
+    "ret_1d": 0.2075,
+    "ret_5d": 0.2269,
+    "ret_20d": 0.0813,
+    "gap_pct": 0.1299,
     "dist_52w_high": 0.0,
-    "vol_z": 4.2294,
-    "dollar_vol_ratio": 3.0634,
-    "dollar_volume": 475437995.446
+    "vol_z": 3.9043,
+    "dollar_vol_ratio": 5.8598,
+    "dollar_volume": 266932996.4401
+   },
+   "options_flow": {
+    "call_volume": 7299.0,
+    "put_volume": 1182.0,
+    "call_vol_oi_ratio": 0.139,
+    "call_put_ratio": 6.175,
+    "otm_call_share": 0.492
    }
   },
   {
-   "ticker": "IBTA",
-   "name": "Ibotta, Inc. Class A Common Stock",
+   "ticker": "DTIL",
+   "name": "Precision BioSciences, Inc. - Common Stock",
    "is_etf": false,
-   "close": 63.03,
-   "final_score": 0.8166,
-   "composite": 0.8166,
-   "options_bonus": 0.0,
+   "close": 9.87,
+   "final_score": 0.9423,
+   "composite": 0.8823,
+   "options_bonus": 0.06,
    "signals": {
-    "volume": 0.888,
-    "momentum": 0.516,
-    "relative_strength": 0.993,
-    "ml_outlier": 0.984
+    "volume": 0.992,
+    "momentum": 0.622,
+    "relative_strength": 0.995,
+    "ml_outlier": 0.997
    },
    "stats": {
-    "ret_1d": 0.0444,
-    "ret_5d": 0.3015,
-    "ret_20d": 0.5177,
-    "gap_pct": 0.0055,
+    "ret_1d": 0.2155,
+    "ret_5d": 0.3266,
+    "ret_20d": 0.535,
+    "gap_pct": 0.0456,
     "dist_52w_high": 0.0,
-    "vol_z": 3.641,
-    "dollar_vol_ratio": 8.9114,
-    "dollar_volume": 81056578.4302
+    "vol_z": 7.2797,
+    "dollar_vol_ratio": 17.6275,
+    "dollar_volume": 28751309.6666
+   },
+   "options_flow": {
+    "call_volume": 625.0,
+    "put_volume": 151.0,
+    "call_vol_oi_ratio": 0.478,
+    "call_put_ratio": 4.139,
+    "otm_call_share": 0.656
    }
   },
   {
-   "ticker": "YOU",
-   "name": "Clear Secure, Inc. Class A Common Stock",
+   "ticker": "TBI",
+   "name": "TrueBlue, Inc. Common Stock",
    "is_etf": false,
-   "close": 59.08,
-   "final_score": 0.8119,
-   "composite": 0.8119,
+   "close": 12.36,
+   "final_score": 0.9388,
+   "composite": 0.9013,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.948,
+    "momentum": 0.732,
+    "relative_strength": 0.992,
+    "ml_outlier": 0.996
+   },
+   "stats": {
+    "ret_1d": 0.2561,
+    "ret_5d": 0.2664,
+    "ret_20d": 0.3493,
+    "gap_pct": 0.3699,
+    "dist_52w_high": 0.0,
+    "vol_z": 4.6909,
+    "dollar_vol_ratio": 9.698,
+    "dollar_volume": 18512807.4858
+   },
+   "options_flow": {
+    "call_volume": 126.0,
+    "put_volume": 25.0,
+    "call_vol_oi_ratio": 1.235,
+    "call_put_ratio": 5.04,
+    "otm_call_share": 0.008
+   }
+  },
+  {
+   "ticker": "U",
+   "name": "Unity Software Inc. Common Stock",
+   "is_etf": false,
+   "close": 48.8,
+   "final_score": 0.9361,
+   "composite": 0.8986,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.896,
+    "momentum": 0.79,
+    "relative_strength": 0.984,
+    "ml_outlier": 0.979
+   },
+   "stats": {
+    "ret_1d": 0.1493,
+    "ret_5d": 0.2427,
+    "ret_20d": 0.0634,
+    "gap_pct": 0.1319,
+    "dist_52w_high": -0.0135,
+    "vol_z": 4.3706,
+    "dollar_vol_ratio": 6.0578,
+    "dollar_volume": 2448252041.724
+   },
+   "options_flow": {
+    "call_volume": 65144.0,
+    "put_volume": 18916.0,
+    "call_vol_oi_ratio": 0.426,
+    "call_put_ratio": 3.444,
+    "otm_call_share": 0.454
+   }
+  },
+  {
+   "ticker": "XERS",
+   "name": "Xeris Biopharma Holdings, Inc. - Common Stock",
+   "is_etf": false,
+   "close": 13.08,
+   "final_score": 0.9218,
+   "composite": 0.8843,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.895,
+    "momentum": 0.73,
+    "relative_strength": 0.99,
+    "ml_outlier": 0.993
+   },
+   "stats": {
+    "ret_1d": 0.2505,
+    "ret_5d": 0.2167,
+    "ret_20d": 0.2836,
+    "gap_pct": 0.196,
+    "dist_52w_high": 0.0,
+    "vol_z": 3.6848,
+    "dollar_vol_ratio": 9.4428,
+    "dollar_volume": 164772683.0389
+   },
+   "options_flow": {
+    "call_volume": 933.0,
+    "put_volume": 122.0,
+    "call_vol_oi_ratio": 0.095,
+    "call_put_ratio": 7.648,
+    "otm_call_share": 0.296
+   }
+  },
+  {
+   "ticker": "FWONA",
+   "name": "Liberty Media Corporation - Series A Common Stock",
+   "is_etf": false,
+   "close": 99.72,
+   "final_score": 0.9101,
+   "composite": 0.8726,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.832,
+    "momentum": 0.782,
+    "relative_strength": 0.978,
+    "ml_outlier": 0.963
+   },
+   "stats": {
+    "ret_1d": 0.0955,
+    "ret_5d": 0.1647,
+    "ret_20d": 0.1387,
+    "gap_pct": 0.0766,
+    "dist_52w_high": 0.0,
+    "vol_z": 3.4534,
+    "dollar_vol_ratio": 5.9038,
+    "dollar_volume": 83934325.0275
+   },
+   "options_flow": {
+    "call_volume": 28.0,
+    "put_volume": 0.0,
+    "call_vol_oi_ratio": 0.509,
+    "call_put_ratio": 28000000000.0,
+    "otm_call_share": 0.393
+   }
+  },
+  {
+   "ticker": "APP",
+   "name": "Applovin Corporation - Class A Common Stock",
+   "is_etf": false,
+   "close": 356.1,
+   "final_score": 0.9032,
+   "composite": 0.8807,
+   "options_bonus": 0.0225,
+   "signals": {
+    "volume": 0.884,
+    "momentum": 0.724,
+    "relative_strength": 0.995,
+    "ml_outlier": 0.996
+   },
+   "stats": {
+    "ret_1d": 0.3104,
+    "ret_5d": 0.397,
+    "ret_20d": 0.2712,
+    "gap_pct": 0.2873,
+    "dist_52w_high": -0.5146,
+    "vol_z": 4.0115,
+    "dollar_vol_ratio": 6.3749,
+    "dollar_volume": 7894523475.3113
+   },
+   "options_flow": {
+    "call_volume": 79698.0,
+    "put_volume": 52528.0,
+    "call_vol_oi_ratio": 1.061,
+    "call_put_ratio": 1.517,
+    "otm_call_share": 0.65
+   }
+  },
+  {
+   "ticker": "PGNY",
+   "name": "Progyny, Inc. - Common Stock",
+   "is_etf": false,
+   "close": 34.37,
+   "final_score": 0.9019,
+   "composite": 0.8644,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.732,
+    "momentum": 0.841,
+    "relative_strength": 0.986,
+    "ml_outlier": 0.975
+   },
+   "stats": {
+    "ret_1d": 0.1419,
+    "ret_5d": 0.2102,
+    "ret_20d": 0.235,
+    "gap_pct": 0.102,
+    "dist_52w_high": 0.0,
+    "vol_z": 3.1607,
+    "dollar_vol_ratio": 3.7447,
+    "dollar_volume": 95878549.0204
+   },
+   "options_flow": {
+    "call_volume": 713.0,
+    "put_volume": 165.0,
+    "call_vol_oi_ratio": 0.144,
+    "call_put_ratio": 4.321,
+    "otm_call_share": 0.576
+   }
+  },
+  {
+   "ticker": "AMTX",
+   "name": "Aemetis, Inc - Common Stock",
+   "is_etf": false,
+   "close": 1.73,
+   "final_score": 0.8969,
+   "composite": 0.8369,
+   "options_bonus": 0.06,
+   "signals": {
+    "volume": 0.996,
+    "momentum": 0.466,
+    "relative_strength": 0.994,
+    "ml_outlier": 0.998
+   },
+   "stats": {
+    "ret_1d": 0.384,
+    "ret_5d": 0.3411,
+    "ret_20d": 0.0,
+    "gap_pct": 0.384,
+    "dist_52w_high": -0.5273,
+    "vol_z": 7.3491,
+    "dollar_vol_ratio": 26.1431,
+    "dollar_volume": 28637036.3157
+   },
+   "options_flow": {
+    "call_volume": 3603.0,
+    "put_volume": 311.0,
+    "call_vol_oi_ratio": 0.152,
+    "call_put_ratio": 11.585,
+    "otm_call_share": 0.91
+   }
+  },
+  {
+   "ticker": "UVIX",
+   "name": "2x Long VIX Futures ETF",
+   "is_etf": true,
+   "close": 53.36,
+   "final_score": 0.8933,
+   "composite": 0.8933,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.86,
-    "momentum": 0.519,
+    "volume": 0.925,
+    "momentum": 0.722,
+    "relative_strength": 0.998,
+    "ml_outlier": 0.998
+   },
+   "stats": {
+    "ret_1d": 0.6116,
+    "ret_5d": 0.5285,
+    "ret_20d": 0.522,
+    "gap_pct": 0.0223,
+    "dist_52w_high": -0.7938,
+    "vol_z": 4.3005,
+    "dollar_vol_ratio": 8.452,
+    "dollar_volume": 678557783.7616
+   },
+   "options_flow": {
+    "call_volume": 12866.0,
+    "put_volume": 6444.0,
+    "call_vol_oi_ratio": 0.305,
+    "call_put_ratio": 1.997,
+    "otm_call_share": 0.26
+   }
+  },
+  {
+   "ticker": "VCEL",
+   "name": "Vericel Corporation - Common Stock",
+   "is_etf": false,
+   "close": 51.78,
+   "final_score": 0.8925,
+   "composite": 0.855,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.919,
+    "momentum": 0.617,
+    "relative_strength": 0.987,
+    "ml_outlier": 0.983
+   },
+   "stats": {
+    "ret_1d": 0.1385,
+    "ret_5d": 0.2067,
+    "ret_20d": 0.2929,
+    "gap_pct": 0.1113,
+    "dist_52w_high": 0.0,
+    "vol_z": 4.9343,
+    "dollar_vol_ratio": 6.3945,
+    "dollar_volume": 138894668.7256
+   },
+   "options_flow": {
+    "call_volume": 69.0,
+    "put_volume": 12.0,
+    "call_vol_oi_ratio": 0.352,
+    "call_put_ratio": 5.75,
+    "otm_call_share": 0.478
+   }
+  },
+  {
+   "ticker": "DNUT",
+   "name": "Krispy Kreme, Inc. - Common Stock",
+   "is_etf": false,
+   "close": 4.6,
+   "final_score": 0.8889,
+   "composite": 0.8664,
+   "options_bonus": 0.0225,
+   "signals": {
+    "volume": 0.991,
+    "momentum": 0.567,
+    "relative_strength": 0.995,
+    "ml_outlier": 0.999
+   },
+   "stats": {
+    "ret_1d": 0.3068,
+    "ret_5d": 0.4375,
+    "ret_20d": 0.5282,
+    "gap_pct": 0.0156,
+    "dist_52w_high": -0.0213,
+    "vol_z": 6.6454,
+    "dollar_vol_ratio": 19.0075,
+    "dollar_volume": 133509477.2321
+   },
+   "options_flow": {
+    "call_volume": 6474.0,
+    "put_volume": 7743.0,
+    "call_vol_oi_ratio": 0.437,
+    "call_put_ratio": 0.836,
+    "otm_call_share": 0.736
+   }
+  },
+  {
+   "ticker": "ECPG",
+   "name": "Encore Capital Group Inc - Common Stock",
+   "is_etf": false,
+   "close": 126.17,
+   "final_score": 0.8871,
+   "composite": 0.8646,
+   "options_bonus": 0.0225,
+   "signals": {
+    "volume": 0.614,
+    "momentum": 0.952,
+    "relative_strength": 0.991,
+    "ml_outlier": 0.982
+   },
+   "stats": {
+    "ret_1d": 0.2626,
+    "ret_5d": 0.2326,
+    "ret_20d": 0.2609,
+    "gap_pct": 0.1,
+    "dist_52w_high": 0.0,
+    "vol_z": 2.4966,
+    "dollar_vol_ratio": 3.3893,
+    "dollar_volume": 90804547.6822
+   },
+   "options_flow": {
+    "call_volume": 365.0,
+    "put_volume": 531.0,
+    "call_vol_oi_ratio": 0.644,
+    "call_put_ratio": 0.687,
+    "otm_call_share": 0.644
+   }
+  },
+  {
+   "ticker": "IBN",
+   "name": "ICICI Bank Limited Common Stock",
+   "is_etf": false,
+   "close": 32.53,
+   "final_score": 0.8793,
+   "composite": 0.8418,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.856,
+    "momentum": 0.693,
+    "relative_strength": 0.965,
+    "ml_outlier": 0.921
+   },
+   "stats": {
+    "ret_1d": 0.0406,
+    "ret_5d": 0.1167,
+    "ret_20d": 0.1659,
+    "gap_pct": 0.0377,
+    "dist_52w_high": 0.0,
+    "vol_z": 4.0875,
+    "dollar_vol_ratio": 4.9467,
+    "dollar_volume": 675768435.6415
+   },
+   "options_flow": {
+    "call_volume": 8320.0,
+    "put_volume": 670.0,
+    "call_vol_oi_ratio": 0.656,
+    "call_put_ratio": 12.418,
+    "otm_call_share": 0.195
+   }
+  },
+  {
+   "ticker": "ADMA",
+   "name": "ADMA Biologics Inc - Common Stock",
+   "is_etf": false,
+   "close": 13.21,
+   "final_score": 0.8739,
+   "composite": 0.8364,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.902,
+    "momentum": 0.567,
+    "relative_strength": 0.989,
+    "ml_outlier": 0.988
+   },
+   "stats": {
+    "ret_1d": 0.2605,
+    "ret_5d": 0.1243,
+    "ret_20d": 0.2788,
+    "gap_pct": 0.146,
+    "dist_52w_high": -0.3518,
+    "vol_z": 4.0595,
+    "dollar_vol_ratio": 7.415,
+    "dollar_volume": 198113012.5721
+   },
+   "options_flow": {
+    "call_volume": 18250.0,
+    "put_volume": 605.0,
+    "call_vol_oi_ratio": 0.45,
+    "call_put_ratio": 30.165,
+    "otm_call_share": 0.073
+   }
+  },
+  {
+   "ticker": "UVXY",
+   "name": "ProShares Ultra VIX Short Term Futures ETF",
+   "is_etf": true,
+   "close": 23.61,
+   "final_score": 0.8659,
+   "composite": 0.8284,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.895,
+    "momentum": 0.539,
     "relative_strength": 0.996,
     "ml_outlier": 0.995
    },
    "stats": {
-    "ret_1d": 0.237,
-    "ret_5d": 0.299,
-    "ret_20d": 0.3875,
-    "gap_pct": 0.0762,
-    "dist_52w_high": -0.0466,
-    "vol_z": 3.8757,
-    "dollar_vol_ratio": 5.5932,
-    "dollar_volume": 398429624.3484
-   }
-  },
-  {
-   "ticker": "SIRI",
-   "name": "SiriusXM Holdings Inc. - Common Stock",
-   "is_etf": false,
-   "close": 33.4,
-   "final_score": 0.8102,
-   "composite": 0.8102,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.625,
-    "momentum": 0.787,
-    "relative_strength": 0.984,
-    "ml_outlier": 0.95
+    "ret_1d": 0.4538,
+    "ret_5d": 0.4096,
+    "ret_20d": 0.4189,
+    "gap_pct": 0.0179,
+    "dist_52w_high": -0.6404,
+    "vol_z": 3.7682,
+    "dollar_vol_ratio": 8.5856,
+    "dollar_volume": 1179487161.4914
    },
-   "stats": {
-    "ret_1d": 0.0844,
-    "ret_5d": 0.2225,
-    "ret_20d": 0.2871,
-    "gap_pct": 0.0221,
-    "dist_52w_high": 0.0,
-    "vol_z": 2.6077,
-    "dollar_vol_ratio": 3.2096,
-    "dollar_volume": 336484975.3723
+   "options_flow": {
+    "call_volume": 90705.0,
+    "put_volume": 27978.0,
+    "call_vol_oi_ratio": 0.797,
+    "call_put_ratio": 3.242,
+    "otm_call_share": 0.445
    }
   },
   {
-   "ticker": "RETL",
-   "name": "Direxion Daily Retail Bull 3X ETF",
+   "ticker": "APPX",
+   "name": "Tradr 2X Long APP Daily ETF",
    "is_etf": true,
-   "close": 10.2,
-   "final_score": 0.8102,
-   "composite": 0.8102,
+   "close": 14.52,
+   "final_score": 0.8642,
+   "composite": 0.8642,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.858,
-    "momentum": 0.527,
-    "relative_strength": 0.994,
-    "ml_outlier": 0.981
+    "volume": 0.812,
+    "momentum": 0.736,
+    "relative_strength": 0.998,
+    "ml_outlier": 1.0
    },
    "stats": {
-    "ret_1d": 0.1657,
-    "ret_5d": 0.2424,
-    "ret_20d": 0.3992,
-    "gap_pct": 0.0629,
-    "dist_52w_high": -0.0688,
-    "vol_z": 3.7909,
-    "dollar_vol_ratio": 5.7503,
-    "dollar_volume": 12482759.7666
+    "ret_1d": 0.6242,
+    "ret_5d": 0.7838,
+    "ret_20d": 0.4578,
+    "gap_pct": 0.5772,
+    "dist_52w_high": -0.8852,
+    "vol_z": 2.9503,
+    "dollar_vol_ratio": 9.2998,
+    "dollar_volume": 134510380.2406
+   },
+   "options_flow": {
+    "call_volume": 6929.0,
+    "put_volume": 3175.0,
+    "call_vol_oi_ratio": 0.505,
+    "call_put_ratio": 2.182,
+    "otm_call_share": 0.237
    }
   },
   {
-   "ticker": "MDLN",
-   "name": "Medline Inc. - Class A common stock",
+   "ticker": "PLMR",
+   "name": "Palomar Holdings, Inc. - Common stock",
    "is_etf": false,
-   "close": 40.35,
-   "final_score": 0.8035,
-   "composite": 0.8035,
-   "options_bonus": 0.0,
+   "close": 155.67,
+   "final_score": 0.8613,
+   "composite": 0.8238,
+   "options_bonus": 0.0375,
    "signals": {
-    "volume": 0.729,
-    "momentum": 0.633,
-    "relative_strength": 0.989,
-    "ml_outlier": 0.985
-   },
-   "stats": {
-    "ret_1d": 0.1836,
-    "ret_5d": 0.2465,
-    "ret_20d": 0.1382,
-    "gap_pct": 0.0962,
-    "dist_52w_high": -0.1928,
-    "vol_z": 3.1184,
-    "dollar_vol_ratio": 3.779,
-    "dollar_volume": 1027500606.144
-   }
-  },
-  {
-   "ticker": "WOOF",
-   "name": "Petco Health and Wellness Company, Inc. - Class A Common Stock",
-   "is_etf": false,
-   "close": 3.14,
-   "final_score": 0.8016,
-   "composite": 0.8016,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.786,
-    "momentum": 0.569,
-    "relative_strength": 0.994,
-    "ml_outlier": 0.981
-   },
-   "stats": {
-    "ret_1d": 0.1673,
-    "ret_5d": 0.251,
-    "ret_20d": 0.4144,
-    "gap_pct": 0.026,
-    "dist_52w_high": -0.178,
-    "vol_z": 3.0879,
-    "dollar_vol_ratio": 5.715,
-    "dollar_volume": 29997991.0022
-   }
-  },
-  {
-   "ticker": "SMRT",
-   "name": "SmartRent, Inc. Class A Common Stock",
-   "is_etf": false,
-   "close": 1.62,
-   "final_score": 0.8008,
-   "composite": 0.8008,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.943,
-    "momentum": 0.402,
-    "relative_strength": 0.993,
-    "ml_outlier": 0.994
-   },
-   "stats": {
-    "ret_1d": 0.1825,
-    "ret_5d": 0.2,
-    "ret_20d": 0.3846,
-    "gap_pct": 0.1241,
-    "dist_52w_high": -0.2358,
-    "vol_z": 4.4327,
-    "dollar_vol_ratio": 10.3151,
-    "dollar_volume": 8064198.0237
-   }
-  },
-  {
-   "ticker": "YINN",
-   "name": "Direxion Daily FTSE China Bull 3X ETF",
-   "is_etf": true,
-   "close": 25.64,
-   "final_score": 0.7975,
-   "composite": 0.7975,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.799,
-    "momentum": 0.561,
-    "relative_strength": 0.971,
-    "ml_outlier": 0.976
-   },
-   "stats": {
-    "ret_1d": 0.1275,
-    "ret_5d": 0.2021,
-    "ret_20d": 0.0883,
-    "gap_pct": 0.0998,
-    "dist_52w_high": -0.4971,
-    "vol_z": 3.5056,
-    "dollar_vol_ratio": 4.4967,
-    "dollar_volume": 131361408.873
-   }
-  },
-  {
-   "ticker": "SKY",
-   "name": "Champion Homes, Inc. Common Stock",
-   "is_etf": false,
-   "close": 96.17,
-   "final_score": 0.7926,
-   "composite": 0.7926,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.741,
-    "momentum": 0.615,
-    "relative_strength": 0.98,
-    "ml_outlier": 0.949
-   },
-   "stats": {
-    "ret_1d": 0.1135,
-    "ret_5d": 0.216,
-    "ret_20d": 0.1868,
-    "gap_pct": 0.0119,
-    "dist_52w_high": -0.0132,
-    "vol_z": 3.2625,
-    "dollar_vol_ratio": 3.6621,
-    "dollar_volume": 169288047.7768
-   }
-  },
-  {
-   "ticker": "PRU",
-   "name": "Prudential Financial, Inc. Common Stock",
-   "is_etf": false,
-   "close": 126.63,
-   "final_score": 0.7881,
-   "composite": 0.7881,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.712,
-    "momentum": 0.73,
-    "relative_strength": 0.913,
-    "ml_outlier": 0.864
-   },
-   "stats": {
-    "ret_1d": 0.0658,
-    "ret_5d": 0.0976,
-    "ret_20d": 0.127,
-    "gap_pct": 0.0353,
-    "dist_52w_high": 0.0,
-    "vol_z": 3.5505,
-    "dollar_vol_ratio": 2.5601,
-    "dollar_volume": 460084769.0208
-   }
-  },
-  {
-   "ticker": "GIC",
-   "name": "Global Industrial Company Common Stock",
-   "is_etf": false,
-   "close": 47.57,
-   "final_score": 0.7845,
-   "composite": 0.7845,
-   "options_bonus": 0.0,
-   "signals": {
-    "volume": 0.84,
-    "momentum": 0.555,
-    "relative_strength": 0.903,
+    "volume": 0.744,
+    "momentum": 0.733,
+    "relative_strength": 0.976,
     "ml_outlier": 0.927
    },
    "stats": {
-    "ret_1d": 0.078,
-    "ret_5d": 0.0755,
-    "ret_20d": 0.105,
-    "gap_pct": 0.0988,
+    "ret_1d": 0.0807,
+    "ret_5d": 0.1349,
+    "ret_20d": 0.1843,
+    "gap_pct": 0.0414,
     "dist_52w_high": 0.0,
-    "vol_z": 4.2001,
-    "dollar_vol_ratio": 4.267,
-    "dollar_volume": 22286544.857
+    "vol_z": 3.256,
+    "dollar_vol_ratio": 3.7411,
+    "dollar_volume": 111272914.6912
+   },
+   "options_flow": {
+    "call_volume": 68.0,
+    "put_volume": 20.0,
+    "call_vol_oi_ratio": 0.151,
+    "call_put_ratio": 3.4,
+    "otm_call_share": 0.265
    }
   },
   {
-   "ticker": "THC",
-   "name": "Tenet Healthcare Corporation Common Stock",
+   "ticker": "AEHL",
+   "name": "Antelope Enterprise Holdings Limited - Class A Ordinary Shares",
    "is_etf": false,
-   "close": 292.25,
-   "final_score": 0.7802,
-   "composite": 0.7802,
+   "close": 17.44,
+   "final_score": 0.8576,
+   "composite": 0.8576,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.709,
-    "momentum": 0.699,
-    "relative_strength": 0.931,
-    "ml_outlier": 0.859
+    "volume": 0.784,
+    "momentum": 0.741,
+    "relative_strength": 1.0,
+    "ml_outlier": 1.0
    },
    "stats": {
-    "ret_1d": 0.0958,
-    "ret_5d": 0.0885,
-    "ret_20d": 0.1248,
-    "gap_pct": 0.0499,
-    "dist_52w_high": 0.0,
-    "vol_z": 3.0405,
-    "dollar_vol_ratio": 3.5635,
-    "dollar_volume": 609399700.0
+    "ret_1d": 1.7815,
+    "ret_5d": 1.2416,
+    "ret_20d": 0.5366,
+    "gap_pct": 1.0096,
+    "dist_52w_high": -0.9476,
+    "vol_z": 2.5869,
+    "dollar_vol_ratio": 322.4922,
+    "dollar_volume": 453699869.8935
    }
   },
   {
-   "ticker": "VUSV",
-   "name": "Vanguard Wellington U.S. Value Active ETF",
-   "is_etf": true,
-   "close": 74.04,
-   "final_score": 0.7792,
-   "composite": 0.7792,
-   "options_bonus": 0.0,
+   "ticker": "CPAY",
+   "name": "Corpay, Inc. Common Stock",
+   "is_etf": false,
+   "close": 447.0,
+   "final_score": 0.8543,
+   "composite": 0.8168,
+   "options_bonus": 0.0375,
    "signals": {
-    "volume": 0.975,
-    "momentum": 0.512,
-    "relative_strength": 0.705,
+    "volume": 0.866,
+    "momentum": 0.577,
+    "relative_strength": 0.967,
+    "ml_outlier": 0.953
+   },
+   "stats": {
+    "ret_1d": 0.0678,
+    "ret_5d": 0.1232,
+    "ret_20d": 0.1117,
+    "gap_pct": 0.0861,
+    "dist_52w_high": 0.0,
+    "vol_z": 4.7739,
+    "dollar_vol_ratio": 4.4162,
+    "dollar_volume": 784216800.0
+   },
+   "options_flow": {
+    "call_volume": 423.0,
+    "put_volume": 135.0,
+    "call_vol_oi_ratio": 0.172,
+    "call_put_ratio": 3.133,
+    "otm_call_share": 0.518
+   }
+  },
+  {
+   "ticker": "IPAR",
+   "name": "Interparfums, Inc. - Common Stock",
+   "is_etf": false,
+   "close": 135.28,
+   "final_score": 0.8515,
+   "composite": 0.829,
+   "options_bonus": 0.0225,
+   "signals": {
+    "volume": 0.849,
+    "momentum": 0.623,
+    "relative_strength": 0.981,
+    "ml_outlier": 0.956
+   },
+   "stats": {
+    "ret_1d": 0.0948,
+    "ret_5d": 0.1713,
+    "ret_20d": 0.2122,
+    "gap_pct": 0.0193,
+    "dist_52w_high": 0.0,
+    "vol_z": 4.1968,
+    "dollar_vol_ratio": 4.5283,
+    "dollar_volume": 101094743.0878
+   },
+   "options_flow": {
+    "call_volume": 90.0,
+    "put_volume": 92.0,
+    "call_vol_oi_ratio": 0.319,
+    "call_put_ratio": 0.978,
+    "otm_call_share": 0.611
+   }
+  },
+  {
+   "ticker": "CARS",
+   "name": "Cars.com Inc. Common Stock",
+   "is_etf": false,
+   "close": 13.56,
+   "final_score": 0.8512,
+   "composite": 0.8287,
+   "options_bonus": 0.0225,
+   "signals": {
+    "volume": 0.786,
+    "momentum": 0.679,
+    "relative_strength": 0.985,
     "ml_outlier": 0.961
    },
    "stats": {
-    "ret_1d": 0.0234,
-    "ret_5d": 0.0279,
-    "ret_20d": 0.0638,
-    "gap_pct": 0.0138,
+    "ret_1d": 0.0635,
+    "ret_5d": 0.1884,
+    "ret_20d": 0.3922,
+    "gap_pct": 0.051,
     "dist_52w_high": 0.0,
-    "vol_z": 4.7383,
-    "dollar_vol_ratio": 31.5487,
-    "dollar_volume": 30993144.3832
+    "vol_z": 3.2932,
+    "dollar_vol_ratio": 4.7503,
+    "dollar_volume": 29894376.9251
+   },
+   "options_flow": {
+    "call_volume": 753.0,
+    "put_volume": 1426.0,
+    "call_vol_oi_ratio": 1.524,
+    "call_put_ratio": 0.528,
+    "otm_call_share": 0.924
    }
   },
   {
-   "ticker": "FSTR",
-   "name": "L.B. Foster Company - Common Stock",
-   "is_etf": false,
-   "close": 41.65,
-   "final_score": 0.7684,
-   "composite": 0.7684,
-   "options_bonus": 0.0,
+   "ticker": "SQQQ",
+   "name": "ProShares UltraPro Short QQQ",
+   "is_etf": true,
+   "close": 49.55,
+   "final_score": 0.8479,
+   "composite": 0.8104,
+   "options_bonus": 0.0375,
    "signals": {
-    "volume": 0.647,
-    "momentum": 0.62,
-    "relative_strength": 0.977,
-    "ml_outlier": 0.965
+    "volume": 0.811,
+    "momentum": 0.569,
+    "relative_strength": 0.993,
+    "ml_outlier": 0.989
    },
    "stats": {
-    "ret_1d": 0.1423,
-    "ret_5d": 0.1499,
+    "ret_1d": 0.1923,
+    "ret_5d": 0.3098,
+    "ret_20d": 0.4849,
+    "gap_pct": 0.039,
+    "dist_52w_high": -0.429,
+    "vol_z": 4.4193,
+    "dollar_vol_ratio": 3.3819,
+    "dollar_volume": 5645959798.0671
+   },
+   "options_flow": {
+    "call_volume": 115579.0,
+    "put_volume": 24322.0,
+    "call_vol_oi_ratio": 0.961,
+    "call_put_ratio": 4.752,
+    "otm_call_share": 0.444
+   }
+  },
+  {
+   "ticker": "COLD",
+   "name": "Americold Realty Trust, Inc. Common Stock",
+   "is_etf": false,
+   "close": 15.81,
+   "final_score": 0.8347,
+   "composite": 0.7972,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.817,
+    "momentum": 0.623,
+    "relative_strength": 0.954,
+    "ml_outlier": 0.872
+   },
+   "stats": {
+    "ret_1d": 0.0408,
+    "ret_5d": 0.0836,
+    "ret_20d": 0.1448,
+    "gap_pct": 0.0402,
+    "dist_52w_high": -0.0114,
+    "vol_z": 3.9171,
+    "dollar_vol_ratio": 4.0864,
+    "dollar_volume": 177717052.7168
+   },
+   "options_flow": {
+    "call_volume": 2428.0,
+    "put_volume": 176.0,
+    "call_vol_oi_ratio": 0.261,
+    "call_put_ratio": 13.795,
+    "otm_call_share": 0.131
+   }
+  },
+  {
+   "ticker": "TECS",
+   "name": "Direxion Technology Bear 3X ETF",
+   "is_etf": true,
+   "close": 84.7,
+   "final_score": 0.8333,
+   "composite": 0.8333,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.853,
+    "momentum": 0.596,
+    "relative_strength": 0.996,
+    "ml_outlier": 0.997
+   },
+   "stats": {
+    "ret_1d": 0.2403,
+    "ret_5d": 0.4875,
+    "ret_20d": 0.6883,
+    "gap_pct": 0.0706,
+    "dist_52w_high": -0.6351,
+    "vol_z": 3.7582,
+    "dollar_vol_ratio": 5.6464,
+    "dollar_volume": 119291475.7019
+   },
+   "options_flow": {
+    "call_volume": 841.0,
+    "put_volume": 1182.0,
+    "call_vol_oi_ratio": 0.243,
+    "call_put_ratio": 0.712,
+    "otm_call_share": 0.108
+   }
+  },
+  {
+   "ticker": "VXX",
+   "name": "iPath Series B S&P 500 VIX Short-Term Futures ETN",
+   "is_etf": false,
+   "close": 22.2,
+   "final_score": 0.8322,
+   "composite": 0.8322,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.944,
+    "momentum": 0.506,
+    "relative_strength": 0.993,
+    "ml_outlier": 0.992
+   },
+   "stats": {
+    "ret_1d": 0.3013,
+    "ret_5d": 0.2751,
+    "ret_20d": 0.2877,
+    "gap_pct": 0.0141,
+    "dist_52w_high": -0.4377,
+    "vol_z": 4.4661,
+    "dollar_vol_ratio": 10.4658,
+    "dollar_volume": 1561854413.6757
+   },
+   "options_flow": {
+    "call_volume": 118567.0,
+    "put_volume": 89624.0,
+    "call_vol_oi_ratio": 0.635,
+    "call_put_ratio": 1.323,
+    "otm_call_share": 0.311
+   }
+  },
+  {
+   "ticker": "DLX",
+   "name": "Deluxe Corporation Common Stock",
+   "is_etf": false,
+   "close": 27.7,
+   "final_score": 0.8315,
+   "composite": 0.7715,
+   "options_bonus": 0.06,
+   "signals": {
+    "volume": 0.624,
+    "momentum": 0.644,
+    "relative_strength": 0.988,
+    "ml_outlier": 0.967
+   },
+   "stats": {
+    "ret_1d": 0.1827,
+    "ret_5d": 0.2086,
+    "ret_20d": 0.2017,
+    "gap_pct": 0.0333,
+    "dist_52w_high": -0.1096,
+    "vol_z": 2.6641,
+    "dollar_vol_ratio": 3.023,
+    "dollar_volume": 28350950.7809
+   },
+   "options_flow": {
+    "call_volume": 1242.0,
+    "put_volume": 68.0,
+    "call_vol_oi_ratio": 1.185,
+    "call_put_ratio": 18.265,
+    "otm_call_share": 0.841
+   }
+  },
+  {
+   "ticker": "FWONK",
+   "name": "Liberty Media Corporation - Series C Common Stock",
+   "is_etf": false,
+   "close": 106.52,
+   "final_score": 0.8298,
+   "composite": 0.8298,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.882,
+    "momentum": 0.597,
+    "relative_strength": 0.973,
+    "ml_outlier": 0.958
+   },
+   "stats": {
+    "ret_1d": 0.0767,
+    "ret_5d": 0.1502,
+    "ret_20d": 0.1204,
+    "gap_pct": 0.0689,
+    "dist_52w_high": -0.0013,
+    "vol_z": 4.5868,
+    "dollar_vol_ratio": 5.0962,
+    "dollar_volume": 1032423763.4636
+   },
+   "options_flow": {
+    "call_volume": 740.0,
+    "put_volume": 745.0,
+    "call_vol_oi_ratio": 0.031,
+    "call_put_ratio": 0.993,
+    "otm_call_share": 0.297
+   }
+  },
+  {
+   "ticker": "EPAM",
+   "name": "EPAM Systems, Inc. Common Stock",
+   "is_etf": false,
+   "close": 165.7,
+   "final_score": 0.8276,
+   "composite": 0.8051,
+   "options_bonus": 0.0225,
+   "signals": {
+    "volume": 0.761,
+    "momentum": 0.601,
+    "relative_strength": 0.991,
+    "ml_outlier": 0.99
+   },
+   "stats": {
+    "ret_1d": 0.2063,
+    "ret_5d": 0.2301,
+    "ret_20d": 0.4553,
+    "gap_pct": 0.1372,
+    "dist_52w_high": -0.2516,
+    "vol_z": 3.0059,
+    "dollar_vol_ratio": 5.1508,
+    "dollar_volume": 608616088.7909
+   },
+   "options_flow": {
+    "call_volume": 2128.0,
+    "put_volume": 793.0,
+    "call_vol_oi_ratio": 0.323,
+    "call_put_ratio": 2.683,
+    "otm_call_share": 0.657
+   }
+  },
+  {
+   "ticker": "CRCT",
+   "name": "Cricut, Inc. - Class A common stock",
+   "is_etf": false,
+   "close": 9.25,
+   "final_score": 0.8236,
+   "composite": 0.8236,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.901,
+    "momentum": 0.524,
+    "relative_strength": 0.991,
+    "ml_outlier": 0.988
+   },
+   "stats": {
+    "ret_1d": 0.0417,
+    "ret_5d": 0.4968,
+    "ret_20d": 0.4453,
+    "gap_pct": 0.0,
+    "dist_52w_high": 0.0,
+    "vol_z": 3.8526,
+    "dollar_vol_ratio": 8.6166,
+    "dollar_volume": 33833725.0
+   },
+   "options_flow": {
+    "call_volume": 46.0,
+    "put_volume": 75.0,
+    "call_vol_oi_ratio": 0.101,
+    "call_put_ratio": 0.613,
+    "otm_call_share": 0.043
+   }
+  },
+  {
+   "ticker": "VIXY",
+   "name": "VIX Short-Term Futures ETF",
+   "is_etf": true,
+   "close": 21.22,
+   "final_score": 0.8227,
+   "composite": 0.8227,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.928,
+    "momentum": 0.491,
+    "relative_strength": 0.993,
+    "ml_outlier": 0.991
+   },
+   "stats": {
+    "ret_1d": 0.2971,
+    "ret_5d": 0.2737,
+    "ret_20d": 0.2861,
+    "gap_pct": 0.0128,
+    "dist_52w_high": -0.4449,
+    "vol_z": 4.1494,
+    "dollar_vol_ratio": 9.9934,
+    "dollar_volume": 414774594.5786
+   },
+   "options_flow": {
+    "call_volume": 7525.0,
+    "put_volume": 5968.0,
+    "call_vol_oi_ratio": 0.136,
+    "call_put_ratio": 1.261,
+    "otm_call_share": 0.274
+   }
+  },
+  {
+   "ticker": "SOXS",
+   "name": "Direxion Daily Semiconductor Bear 3X ETF",
+   "is_etf": true,
+   "close": 81.22,
+   "final_score": 0.8195,
+   "composite": 0.782,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.649,
+    "momentum": 0.626,
+    "relative_strength": 0.999,
+    "ml_outlier": 1.0
+   },
+   "stats": {
+    "ret_1d": 0.3922,
+    "ret_5d": 0.9487,
+    "ret_20d": 1.4037,
+    "gap_pct": 0.152,
+    "dist_52w_high": -0.91,
+    "vol_z": 2.482,
+    "dollar_vol_ratio": 4.2464,
+    "dollar_volume": 11166507501.828
+   },
+   "options_flow": {
+    "call_volume": 44865.0,
+    "put_volume": 14084.0,
+    "call_vol_oi_ratio": 0.376,
+    "call_put_ratio": 3.186,
+    "otm_call_share": 0.213
+   }
+  },
+  {
+   "ticker": "CRON",
+   "name": "Cronos Group Inc. - Common Share",
+   "is_etf": false,
+   "close": 3.72,
+   "final_score": 0.8164,
+   "composite": 0.7789,
+   "options_bonus": 0.0375,
+   "signals": {
+    "volume": 0.804,
+    "momentum": 0.532,
+    "relative_strength": 0.967,
+    "ml_outlier": 0.923
+   },
+   "stats": {
+    "ret_1d": 0.0598,
+    "ret_5d": 0.1071,
+    "ret_20d": 0.1553,
+    "gap_pct": 0.057,
+    "dist_52w_high": 0.0,
+    "vol_z": 3.4562,
+    "dollar_vol_ratio": 4.793,
+    "dollar_volume": 14747568.1134
+   },
+   "options_flow": {
+    "call_volume": 1827.0,
+    "put_volume": 176.0,
+    "call_vol_oi_ratio": 0.031,
+    "call_put_ratio": 10.381,
+    "otm_call_share": 0.536
+   }
+  },
+  {
+   "ticker": "COHQ",
+   "name": "Tradr 2X Short COHR Daily ETF",
+   "is_etf": true,
+   "close": 63.17,
+   "final_score": 0.7855,
+   "composite": 0.7855,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.507,
+    "momentum": 0.781,
+    "relative_strength": 0.998,
+    "ml_outlier": 0.998
+   },
+   "stats": {
+    "ret_1d": 0.2561,
+    "ret_5d": 0.766,
+    "ret_20d": 1.5018,
+    "gap_pct": 0.1,
+    "dist_52w_high": 0.0,
+    "vol_z": 1.3155,
+    "dollar_vol_ratio": 7.8933,
+    "dollar_volume": 4194487.8784
+   },
+   "options_flow": {
+    "call_volume": 12.0,
+    "put_volume": 4.0,
+    "call_vol_oi_ratio": 0.316,
+    "call_put_ratio": 3.0,
+    "otm_call_share": 0.0
+   }
+  },
+  {
+   "ticker": "AMDD",
+   "name": "Direxion Daily AMD Bear 1X ETF",
+   "is_etf": true,
+   "close": 31.89,
+   "final_score": 0.7854,
+   "composite": 0.7854,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.735,
+    "momentum": 0.561,
+    "relative_strength": 0.992,
+    "ml_outlier": 0.991
+   },
+   "stats": {
+    "ret_1d": 0.1759,
+    "ret_5d": 0.3382,
+    "ret_20d": 0.441,
+    "gap_pct": 0.073,
+    "dist_52w_high": -0.6765,
+    "vol_z": 2.872,
+    "dollar_vol_ratio": 4.9104,
+    "dollar_volume": 47490587.0911
+   },
+   "options_flow": {
+    "call_volume": 380.0,
+    "put_volume": 131.0,
+    "call_vol_oi_ratio": 0.16,
+    "call_put_ratio": 2.901,
+    "otm_call_share": 0.166
+   }
+  },
+  {
+   "ticker": "NVRI",
+   "name": "Enviri Corporation Common Stock",
+   "is_etf": false,
+   "close": 23.36,
+   "final_score": 0.785,
+   "composite": 0.785,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.795,
+    "momentum": 0.519,
+    "relative_strength": 0.986,
+    "ml_outlier": 0.968
+   },
+   "stats": {
+    "ret_1d": 0.139,
+    "ret_5d": 0.2308,
+    "ret_20d": 0.1804,
+    "gap_pct": 0.0726,
+    "dist_52w_high": -0.021,
+    "vol_z": 3.3808,
+    "dollar_vol_ratio": 4.7473,
+    "dollar_volume": 27445664.7171
+   },
+   "options_flow": {
+    "call_volume": 170.0,
+    "put_volume": 116.0,
+    "call_vol_oi_ratio": 0.632,
+    "call_put_ratio": 1.466,
+    "otm_call_share": 0.253
+   }
+  },
+  {
+   "ticker": "TM",
+   "name": "Toyota Motor Corporation Common Stock",
+   "is_etf": false,
+   "close": 218.11,
+   "final_score": 0.7785,
+   "composite": 0.7785,
+   "options_bonus": 0.0,
+   "signals": {
+    "volume": 0.855,
+    "momentum": 0.444,
+    "relative_strength": 0.975,
+    "ml_outlier": 0.969
+   },
+   "stats": {
+    "ret_1d": 0.0935,
+    "ret_5d": 0.1092,
     "ret_20d": 0.1726,
-    "gap_pct": 0.0891,
-    "dist_52w_high": -0.0779,
-    "vol_z": 2.6098,
-    "dollar_vol_ratio": 3.66,
-    "dollar_volume": 5743535.2104
+    "gap_pct": 0.0964,
+    "dist_52w_high": -0.1216,
+    "vol_z": 4.9893,
+    "dollar_vol_ratio": 3.9985,
+    "dollar_volume": 232876047.6517
+   },
+   "options_flow": {
+    "call_volume": 1954.0,
+    "put_volume": 1114.0,
+    "call_vol_oi_ratio": 0.368,
+    "call_put_ratio": 1.754,
+    "otm_call_share": 0.49
    }
   },
   {
-   "ticker": "LYFT",
-   "name": "Lyft, Inc. - Class A Common Stock",
-   "is_etf": false,
-   "close": 18.74,
-   "final_score": 0.7674,
-   "composite": 0.7674,
+   "ticker": "MUD",
+   "name": "Direxion Daily MU Bear 1X ETF",
+   "is_etf": true,
+   "close": 13.82,
+   "final_score": 0.7692,
+   "composite": 0.7692,
    "options_bonus": 0.0,
    "signals": {
-    "volume": 0.755,
-    "momentum": 0.529,
-    "relative_strength": 0.974,
-    "ml_outlier": 0.937
+    "volume": 0.665,
+    "momentum": 0.575,
+    "relative_strength": 0.994,
+    "ml_outlier": 0.992
    },
    "stats": {
-    "ret_1d": 0.1242,
-    "ret_5d": 0.1469,
-    "ret_20d": 0.2013,
-    "gap_pct": 0.0294,
-    "dist_52w_high": -0.2373,
-    "vol_z": 3.8295,
-    "dollar_vol_ratio": 2.9196,
-    "dollar_volume": 454212618.4525
+    "ret_1d": 0.1722,
+    "ret_5d": 0.3629,
+    "ret_20d": 0.486,
+    "gap_pct": 0.0543,
+    "dist_52w_high": -0.9834,
+    "vol_z": 2.8047,
+    "dollar_vol_ratio": 3.3757,
+    "dollar_volume": 215486963.2416
    }
   }
  ]
